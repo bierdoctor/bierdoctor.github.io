@@ -1,0 +1,583 @@
+
+% \documentclass[10pt]{report}
+\documentclass[9pt]{extarticle}
+
+% specify packages to include
+\usepackage[margin=1.5in,top=1in,nohead]{geometry}	% package for defining aspects of page dimensions
+
+\geometry{letterpaper}			% ... or a4paper or a5paper or ... (define paper size)
+\usepackage[parfill]{parskip}	% begin paragraphs with an empty line rather than an indent
+\usepackage{lastpage}			% allows creation of references to last page of document (page 21 of 47) via LastPage marker
+\usepackage{graphics}			% allows importing graphics in eps format
+\usepackage{rotating}			% allows rotation of in-line figures, tables and captions
+\usepackage{xspace}			    % adds space at the end of a macro designed for use in text,
+\usepackage{hyperref}			% create hyperlinks within the document; only works with pdflatex
+\usepackage{array}				% supports more complex column formatting
+\usepackage{xcolor}			    % driver-independent specification of colors
+\usepackage{tipa}				% phonetic symbols (additional special characters)
+
+\usepackage{fancyhdr}			% supports more complex headers and footers
+\usepackage[round]{natbib}		% bibliography creation
+\usepackage{newcent}			% default serif font
+\usepackage{avant}				% default sans serif font
+%\usepackage{utopia}			% serif
+%\usepackage{helvet}			% sans serif
+
+% redefine format of \section command
+\makeatletter
+\renewcommand{\section}{%
+  \@startsection{section}{1}{0em}{\baselineskip}{3pt}{\large\bfseries\textsc}}
+\makeatother
+\setcounter{secnumdepth}{0}
+
+% define aspects of page setup
+\pdfpagewidth 8.75in
+\pdfpageheight 11in 
+\setlength\textheight{8.5in}
+\widowpenalty=10000
+\raggedright
+
+% define the absence of header, and footer for each page
+\renewcommand{\headrulewidth}{0pt}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\fancyfoot[LO,LE]{\emph{\small Emilee Rader (formerly E. Patrick)} \\ \emph{\small updated: \today}}
+\fancyfoot[RO,RE]{\small \thepage}
+\pagenumbering{arabic}	% vs. roman numerals
+
+% make a tilde that looks ok
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+
+
+%--------------------------------------------------------------------------
+% TITLE
+\begin{document}
+{\LARGE{\textbf{Emilee J. Rader}}} \emph{(formerly E. Patrick)} \\ \vspace{3pt}
+\textbf{Curriculum Vitae}
+
+
+%--------------------------------------------------------------------------
+% CONTACT INFO
+\begin{tabbing}
+Communication Arts \& Sciences \hspace{1.5in}\=  \\
+404 Wilson Road, Room 420 \\
+East Lansing, MI 48824-1212 \\
+\href{mailto:emilee@msu.edu}{emilee@msu.edu} \\
+\href{http://msu.edu/~emilee}{http://msu.edu/\mytilde emilee}  \\
+\href{http://bitlab.cas.msu.edu/}{http://bitlab.cas.msu.edu/}  \\\\
+Office: 517-432-1334  \textpipe  ~Fax: 517-355-1292  \textpipe  ~Mobile: 847-514-0481 \\
+\end{tabbing}
+
+
+%--------------------------------------------------------------------------
+% APPOINTMENTS
+\section{Appointments}
+
+\emph{Assistant Professor and AT\&T Scholar (2011-present)} \\
+\href{http://tc.msu.edu/}{Department of Media and Information} \\ College of Communication Arts \& Sciences \\ Michigan State University
+
+
+%--------------------------------------------------------------------------
+% EDUCATION
+\section{Education}
+
+\begin{tabbing}
+\emph{Ph.D., Information (Fall 2009)} \\
+\href{http://www.si.umich.edu/}{School of Information}, University of Michigan \\\\
+\emph{Master of HCI (August 1999)} \\
+\href{http://www.hcii.cmu.edu/}{Human Computer Interaction Institute}, Carnegie Mellon University \\\\
+\emph{B.S., \href{http://psych.wisc.edu/}{Psychology} (Fall 1995)} \\
+University of Wisconsin at Madison (Graduated with Distinction) 
+\end{tabbing}
+
+
+%--------------------------------------------------------------------------
+% PREVIOUS EXPERIENCE
+\section{Research \& Professional Experience}
+\begin{tabbing}
+2010-11  \hspace{0.3in}\= \emph{Assistant Professor} \\
+\> \href{http://www.communication.northwestern.edu/departments/communicationstudies/}{Department of Communication Studies}, Northwestern University \\\\
+2009-10  \hspace{0.3in}\= \emph{Computing Innovation Fellow (postdoc)} \\
+\> Center for Technology and Social Behavior, Northwestern University \\\\
+2004-09 \> \emph{Graduate Student Research Assistant} \\
+\> \href{http://si.umich.edu}{School of Information},  University of Michigan \\\\
+1999-04 \> \emph{Senior Human Factors Scientist} \\
+\> User Centered Solutions Lab, Motorola Labs \\\\
+1998-99 \> \emph{Usability Analyst and Interface Designer}. Carnegie Technical \\
+\> Education in Pittsburgh, PA (now \href{http://www.icarnegie.com/}{http://www.icarnegie.com/})  \\\\
+1994-96 \> \emph{Undergraduate Research Assistant}, Communicative Development \\ 
+\> Inventory Lab. Department of Psychology, University of Wisconsin-Madison
+\end{tabbing}
+
+
+\newpage
+%--------------------------------------------------------------------------
+% RESEARCH FUNDING
+\section{Research Grants and Fellowships}
+
+\begin{tabbing}
+\textbf{Title / Source} \hspace{2.75in}\= \textbf{Period} \hspace{0.5in}\= \textbf{Amount} \\
+
+\emph{III: HCC: Small: Effects of Automated Information} \> 2012-2015 \> \$486,093 \\
+\emph{Selection and Presentation in Online Information Systems} \\ 
+National Science Foundation (\href{http://nsf.gov/awardsearch/showAward.do?AwardNumber=1217212}{IIS-1217212}) \\ 
+Role: PI \\
+	\hspace{1cm}REU supplement 2013: \$16,000 \\\\
+
+\emph{TC: Small: Collaborative Research: Influencing} \> 2011-2015 \> \$241,589 \\
+\emph{Mental Models of Security} \\ 
+National Science Foundation (\href{http://nsf.gov/awardsearch/showAward.do?AwardNumber=1115926}{CNS-1115926}) \\ Role: PI \\
+	\hspace{1cm}REU Supplement 2014: \$8,000 \\
+	\hspace{1cm}REU Supplement 2013: \$8,000 \\
+	\hspace{1cm}REU Supplement 2012: \$16,000 \\\\
+
+\emph{\href{http://www.cra.org/ccc/press.release.10.15.09.php}{Computing Innovation Fellowship}}  \> 2009-2010 \> \$140,000 \\ 
+Computing Research Association (CRA) and NSF \\ 
+(in conjunction with \href{http://nsf.gov/awardsearch/showAward?AWD_ID=0937060}{CNS-0937060})
+\end{tabbing}
+
+
+%--------------------------------------------------------------------------
+% PUBLICATIONS
+\section{Peer-Reviewed Publications}
+
+\textbf{Rader, E.} and Gray, R. (2015) Understanding User Beliefs About Algorithmic Curation in the Facebook News Feed. \emph{To appear in CHI 2015}.
+
+\textbf{Rader, E.} (2014) Awareness of Behavioral Tracking and Information Privacy Concern in Facebook and Google. \emph{SOUPS 2014}. Acceptance Rate 27\%.
+
+Wash, R., \textbf{Rader, E.}, Vaniea, K. and Rizor, M. (2014). Out of the Loop: How Automated Software Updates Cause Unintended Security Consequences. \emph{SOUPS 2014}. Acceptance Rate 27\%.
+
+Vaniea, K., \textbf{Rader, E.}, Wash, R. (2014). Betrayed by updates: how negative experiences affect future security. \emph{CHI 2014}. Acceptance Rate 23\%.
+
+\textbf{Rader, E.}, Velasquez, A., Hales, K., and Kwok, H. (2012). The Gap Between Producer Intentions and Consumer Behavior in Social Media. \emph{GROUP 2012}. Acceptance rate 37\%.
+
+\textbf{Rader, E.}, Wash, R., and Brooks, B. (2012). Stories as Informal Lessons About Security. \emph{SOUPS 2012}. Acceptance rate 21\%.
+
+Wash, R. and \textbf{Rader, E.} (2011). Influencing Mental Models of Security: A Research Agenda. \emph{NSPW 2011}.
+
+\textbf{Rader, E.}, Echelbarger, M. and Cassell, J. (2011). Brick by brick: Iterating interventions to bridge the achievement gap with virtual peers. \emph{CHI 2011}, 2971-2974. Acceptance rate 26\%.
+
+\textbf{Rader, E.} (2010). The Effect of Audience Design on Labeling, Organizing, and Finding Shared Files. \emph{CHI 2010}, 777-786. Acceptance rate 22\%.
+
+\textbf{Rader, E.} (2009). Yours, Mine, and (Not) Ours: Social Influences on Group Information Repositories. \emph{CHI 2009}, 2095-2098. Best Paper Honorable Mention (top 5\% of papers). Acceptance rate 25\%.
+
+\textbf{Rader, E}. and Wash, R. (2008). Influences on Tag Choices in del.icio.us. \emph{CSCW 2008}, 239-248. Acceptance rate 23\%.
+
+Wash, R. and \textbf{Rader, E}. (2007). Public Bookmarks and Private Benefits: An Analysis of Incentives in Social Computing. \emph{ASIS\&T Annual Meeting 2007.}
+
+Batcheller, A. L., Hilligoss, B., Nam, K., \textbf{Rader, E.}, Rey-Babarro, M., \& Zhou, X. (2007). Testing the Technology: Playing Games with Video Conferencing. \emph{CHI 2007}, 849-852. Acceptance rate 25\%. 
+
+\textbf{Patrick, E.}, Cosgrove, D., Slavkovic, A., Rode, J.A., Verratti, T. and Chiselko, G. (2000). Using a large projection screen as an alternative to head-mounted displays for virtual environments. \emph{CHI 2000}, 478-485. Acceptance rate 21\%.
+
+
+%--------------------------------------------------------------------------
+% CONFERENCE PROCEEDINGS AND WORKSHOP PAPERS
+\section{Conference Proceedings and Workshop Papers}
+
+Vaniea, K., \textbf{Rader, E.}, and Wash, R. (2014) Mental Models of Software Updates. \emph{International Communication Association. Seattle.}
+
+Wash, R. and \textbf{Rader, E.} (2010). Using Economic Modeling to Predict User Behavior. \emph{CHI 2010 Workshop: Models, theories and methods of studying online behavior}, Atlanta, GA.
+
+\textbf{Rader, E.} (2008). Group Information Repositories as Social Systems. \emph{4th Annual SIG SI Social Informatics Research Symposium}, Columbus, OH.
+
+Wash, R. and \textbf{Rader, E.} (2008). Understanding del.icio.us Tag Choice Using Simulations. \emph{iSchools Conference 2008}, Los Angeles, CA.
+
+Hofer, E., \textbf{Rader, E.}, and Finholt, T. (2005). Toward supporting virtual collocation. \emph{WACE 2005 (Workshop on Advanced Collaborative Environments)}, Seattle, WA.
+
+\textbf{Rader, E.} (2002). Small Group Communication over the Access Grid: A Case Study. \emph{Proceedings of the 2002 Access Grid Retreat}, San Diego, CA.
+
+\textbf{Rader, E.} (2001). Barriers to Collaboration: User-Centered Research and the Access Grid. \emph{Proceedings of the 2001 Access Grid Retreat}, Argonne National Labs.
+
+
+%--------------------------------------------------------------------------
+% POSTERS
+\section{Posters}
+
+Hoban, K., Rader, E., Wash, R., and Vaniea, K. (2014). Computer Security Information in Stories, News Articles, and Education Documents. \emph{SOUPS 2014.} \textbf{Distinguished Poster Award Winner.}
+
+Jung, Y. and Rader, E. (2014). Transitive Privacy Concern in Social Networks. \emph{SOUPS 2014.}
+
+Baker, C. and Rader, E. (2014). Algorithmic Curation: Understanding the Content Network. Mid-Michigan Symposium for Undergraduate Research Experiences (MiD-SURE).
+
+Bisht, S., Vaniea, K., Wash, R., and Rader, E. (2014). What Does Computer Security Cost You? Mid-Michigan Symposium for Undergraduate Research Experiences (MiD-SURE).
+
+Rose, P. and Rader, E. (2014). Online Information Privacy: Understanding User Concern and Behavior. MSU University Undergraduate Research and Arts Forum (UURAF).
+
+Hoban, K., Rader, E., Vaniea, K., and Wash, R. (2014). Computer Security: Stories, Articles, and Education Documents. MSU University Undergraduate Research and Arts Forum (UURAF).
+
+Elhazzat, J., Hasselbeck, T., Vaniea, K., Rader, E., and Wash, R. (2014). Reconstructing Digital Events. MSU University Undergraduate Research and Arts Forum (UURAF).
+
+Rizor, M., Vaniea, K., Rader, E., Wash, R. (2013). Out of the Loop: How Automated Software Updates Cause Unintended Security Consequences. MSU Cyberinfrastructure Days 2013. \textbf{Winner of the 2nd place prize for Best Poster.}
+
+Heldt, R., Vaniea, K., Wash, R., and Rader, E. (2013). The difficulties of Tracking Users' Online Passwords. Mid-Michigan Symposium for Undergraduate Research Experiences (MiD-SURE). 
+
+Hinck, A., Wash, R., Vaniea, K., Rader, E. (2013). What do YOU Think is a Virus? Mid-Michigan Symposium for Undergraduate Research Experiences (MiD-SURE).
+
+Hoban, K., Girouard, Z., Rader, E., Vaniea, K., and Wash, R. (2013). Computer and Information Security: Educating the User. Mid-Michigan Symposium for Undergraduate Research Experiences (MiD-SURE).
+
+Saxton, N., Vaniea, K., Wash, R., Rader, E. (2013). Tracking Browsing Context in Internet Security Behaviors Research. Mid-Michigan Symposium for Undergraduate Research Experiences (MiD-SURE).
+
+Olsen, T., Saxton, N., Vaniea, K., Wash, R., and Rader, E. (2012). Do People Behave Securely Online? MSU University Undergraduate Research and Arts Forum (UURAF).
+
+Rizor, M., Wash, R., Vaniea, K., and Rader, E. (2012). User Understanding of Security Software Updates: An Interdisciplinary Approach. MSU University Undergraduate Research and Arts Forum (UURAF).
+
+Zemanek, N., Velasquez, A., Rader, E. and Wash, R. (2012). Content Analysis of Security Education Materials Created for User Consumption. MSU Summer Undergraduate Research Forum (SURF).
+  
+Rader, E. (2007). Just email it to me! Why things get lost in shared file repositories. \emph{GROUP 2007}, Nov. 4-7, 2007, Sanibel Island, FL.
+
+Rader, E. and Wash, R. (2006). Tagging with del.icio.us: Social or Selfish? \emph{CSCW 2006}, Nov. 4-8 2006, Banff, Alberta, CA.
+ 
+
+%--------------------------------------------------------------------------
+% PRESENTATIONS
+\section{External Presentations}
+
+Rader, E. (2011). Understanding Infrastructure for Social Information Sharing, \emph{Michigan State University, Department of Telecommunication, Information Studies and Media}, April 15, 2011.
+
+Rader, E. (2010). How ``Social'' is the Social Web? \emph{Northwestern University, Department of Communication Studies}, January 22, 2010.
+
+Rader, E. (2010). How ``Social'' is the Social Web? \emph{University of Maryland Baltimore County, Department of Information Systems}, January 14, 2010.
+
+Rader, E. (2010). Exploring the ``Social'' Nature of Social Media in Organizations. \emph{NCA 2010 Panel: Social Media and the Communication of Knowledge in the Workplace}, San Francisco, CA.
+
+Rader, E. (2009). Just Email It to Me! Why Things Get Lost in Group Information Repositories. \emph{Rutgers University, School of Communication and Information Studies}, February 6, 2009.
+
+Rader, E. (2007). What Did You Call It? How Document Labeling and Organizing Affect Finding in Shared Repositories. \emph{Johns Hopkins University Applied Physics Laboratory}, November 8, 2007
+
+Rader, E. (2007). What did you call it again? Language Use in Group Information Management Systems. \emph{GROUP 2007 Doctoral Colloquium}, Sanibel Island, FL.
+
+Rader, E. and Johnston, E. (2005). Cooperation and Competition in Video Games: Implications for Collaborative Systems. \emph{Connections 2005}, Montreal, Quebec, Canada.
+
+Patrick, E. (2001). Access Grid Node User Studies: Distributed Video Mediated Communication. \emph{Motorola Labs 2001 Real Technology Series}, Schaumburg, IL.
+
+Patrick, E. (2001). User Centered Evaluation of the Access Grid. \emph{Access Grid Human Factors Workshop}, Argonne National Labs.
+
+Patrick, E. (2001). User Centered Research and the Access Grid: Requirements for Collaboration. \emph{Access Grid Retreat 2001}, Argonne National Labs.
+
+Patrick, E. (2001). The Access Grid: Beyond Videoconferencing. \emph{Chicago chapter of ACM SIG-CHI}, Chicago IL.
+
+
+%--------------------------------------------------------------------------
+% BOOK CHAPTERS
+\section{Book Chapters}
+
+Wash, R. and \textbf{Rader, E.} (2012). Folk Models of Home Computer Security. Markus Jacobsson (Ed.). \emph{The Death of the Internet,} Wiley; ISBN 978-1118062418
+
+Birnholtz, J., \textbf{Rader, E.}, Horn, D.B., and Finholt, T. (2009). Enabling Remote Participation in Research. B. Whitworth and A. de Moor (Eds.) \emph{Handbook of Research on Socio-Technical Design and Social Networking Systems}. Information Science Reference; ISBN 978-1605662640
+
+
+%--------------------------------------------------------------------------
+% TECHNICAL REPORTS
+\section{Technical Reports}
+
+Metcalf, C. and Patrick, E. Sharing Photos: Sending, Receiving, and Reviewing Personal Photographs with Family and Friends. \emph{Motorola Labs Technical Report}, February 2003, Schaumburg IL.
+
+Patrick, E. and Metcalf, C. Mediated Communication Between Extended Family and Friends: A Case Study. \emph{Motorola Labs Technical Report}, September 9, 2001, Schaumburg IL.
+
+Patrick, E. and Marturano, L. GTSS Information Architecture User Study Report. \emph{Motorola Labs Technical Report}, June 2001, Schaumburg IL.
+
+Patrick, E. Motorola Labs Website Usability Report. \emph{Motorola Labs Technical Report}, January 2000, Schaumburg IL.
+
+Patrick, E. Motorola ``CoPilot'' Usability Evaluation. \emph{Motorola Labs Technical Report}, November 1999, Schaumburg IL.
+
+
+%--------------------------------------------------------------------------
+% INTERNAL PRESENTATIONS AND TALKS
+\section{Internal Presentations and Talks}
+\begin{tabbing}
+
+2014 \hspace{0.3in}\=  \emph{MIS Proseminar} Topic: Human Computer Interaction. Sept. 5, 2014.\\\\
+
+2013 \hspace{0.3in}\=  \emph{MSU Cyberinfrastructure Days Panel} Topic: Research-Enabling Tools and Technologies:\\
+\> \hspace{0.5cm} Challenges and Experiences from a MSU PI Perspective. Oct. 25, 2013.\\ 
+% \> \hspace{0.5cm} \\
+\> \emph{Lab Environmental Reporting, Journalism 472} Topic: Face Recognition. Oct. 3, 2013. \\
+\> \emph{MIS Program Job Market Panel} Sept. 27, 2013. \\
+\> \emph{Research Data Management Cafe} Topic: Data Management in Interdisciplinary \\
+\> \hspace{0.5cm} Projects. Apr. 29, 2013. \\\\
+% \> \hspace{0.5cm}  \\\\
+
+2012 \hspace{0.3in}\=  \emph{MIS Proseminar} Topic: Information Science. Mar. 16, 2012.\\
+\> \emph{Media Impacts on Society, TC401.} Topic: Incentives and constraints in online \\
+\> \hspace{0.5cm} communities. MSU Guest Lecture. November 15, 2012. \\\\
+
+2011 \hspace{0.3in}\= \emph{Applied Research Methods, (MTS 525)} NU Guest Lecture, Feb. 28, 2011. \\
+\> \emph{MSU Comm Arts Brownbag Series}, Oct. 27, 2011. \\
+\> \emph{MIS Program Job Market Panel}, Sept. 30, 2011. \\\\\\
+
+2010 \hspace{0.3in}\= \emph{NU SoC Century Scholars Invited Talk}, Nov. 11, 2010. \\
+\> \emph{MTS Graduate Seminar (MTS 501)}. NU Guest Lecture. \\
+\> \emph{Applied Research Methods, (MTS 525)} NU Guest Lecture. \\\\
+
+2009 \hspace{0.3in}\= \emph{Doctoral Foundations (SI 701)}. SI Guest Lecture. \\
+\> \emph{SI Academic Job Search Panel}, Apr. 23, 2010. \\\\
+
+2008 \hspace{0.3in}\= \emph{Human Interaction in Information Retrieval (SI 531)}. SI Guest Lecture. \\
+\> \emph{Research Methods (SI 840)}. SI Guest Lecture. \\\\
+
+2007 \hspace{0.3in}\= \emph{CSCW (SI 689)}. SI Guest Lecture. \\
+\> \emph{Public Goods (SI 686)}. SI Guest Lecture. \\
+\> \emph{Research Methods (SI 840)}. SI Guest Lecture. \\
+\> \emph{Organization of Information Resources (SI 666)}. SI Guest Lecture. \\\\
+
+2006 \hspace{0.3in}\= \emph{SI CREW Seminar Invited Talk}, Apr. 10, 2006. \\
+\end{tabbing}
+
+
+%--------------------------------------------------------------------------
+% AWARDS AND HONORS
+\section{Awards and Honors}
+
+\begin{tabbing}
+2011 \hspace{0.3in}\= Accepted the endowed AT\&T Scholar position, in the Telecommunication, \\
+\> \hspace{0.5cm} Information Studies and Media department at Michigan State University. \\
+\> \hspace{0.5cm} This position comes with \$15,000 of research funding, renewed annually. \\\\
+
+2010 \hspace{0.3in}\= Selected to participate in the CCC/CRA \href{http://icie.cs.byu.edu/CCCWorkshops/Ultra-large-scale.html}{Ultra-large-scale Interaction Workshop} \\\\
+
+2009 \> Selected to participate in CSST '09, an NSF-funded workshop associated \\ 
+\> \hspace{0.5cm} with the \href{http://sociotech.net/}{Consortium for the Science of Sociotechnical Systems} \\
+
+ \> CHI '09 paper received Best Paper Honorable Mention (top 5\% of submissions)
+\end{tabbing}
+
+
+%--------------------------------------------------------------------------
+% UNIVERSITY SERVICE
+\section{University Service}
+
+\emph{Michigan State University} \\
+\begin{tabbing}
+
+2014 \hspace{0.3in}\=  Panelist for MSU Women's Alliance session on ``Working Women'' \\
+\> Co-Organized MIS Spring Research Symposium 2014 \\
+\> Presented a Responsible Conduct of Research session on ``Management of Data'', March 21, 2014 \\
+
+2013 \hspace{0.3in}\=  Director of Graduate Studies, TISM \\
+\> Co-Organized MIS Spring Research Symposium 2013 \\
+
+2012 \>  TISM PhD Committee \\
+\> Co-Organized MIS Spring Research Symposium 2012, and served as judge \\
+\> Served as a mentor for a  SROP student during Summer 2012 \\
+\> Served on a university-wide IT services advisory committee
+\end{tabbing}
+
+\emph{Northwestern University, Communication Studies Department} \\
+\begin{tabbing}
+2011 \hspace{0.3in}\=  Technology and Social Behavior PhD Admissions committee \\
+2010-11 \> Organizer of TSB Seminar Series (with Darren Gergle) \\
+2010-11 \> Chair's Advisory Committee, Department of Communication Studies
+\end{tabbing}
+
+\emph{University of Michigan, School of Information} \\
+\begin{tabbing}
+2006  \hspace{0.3in}\= PhD Admissions Committee \\
+2005-06 \> President of the Doctoral Student Organization \\
+2005-06 \> Doctoral Committee
+\end{tabbing}
+ 
+
+%--------------------------------------------------------------------------
+% PROFESSIONAL SERVICE
+\section{Professional Service}
+
+\emph{Conference Program Committees} \\
+ACM Conference on Computer-Human Interaction (CHI)  2010, 2012, 2014 \\
+\hspace{0.5cm} as Associate Chair \\
+ACM Conference on Computer-Supported Cooperative Work and Social Computing \\
+\hspace{0.5cm} (CSCW) 2013, 2015 as Associate Chair \\
+SOUPS (Symposium on Usable Privacy and Security) 2013, 2015
+
+\emph{Reviewer (Journals)} \\
+Human Computer Interaction Journal \\
+International Journal of Human Computer Studies
+
+% \newpage
+\emph{Reviewer (Conferences)} \\
+CSCW 2008-2015 \\
+CHI 2006-2015 \\
+IUA 2015
+UIST 2014 \\
+WWW 2012 \\
+iConference 2012 \\
+ICWSM 2011 \\
+GROUP 2009
+
+\emph{Invited Panelist (Grant Proposals)} \\
+National Science Foundation (NSF), 2011-2013 \\
+Austrian Research Promotion Agency (FFG), 2011
+
+
+%--------------------------------------------------------------------------
+% TEACHING
+\section{Teaching}
+
+\emph{Instructor of Record} \\
+Digital Footprints: Privacy and the Online Information Explosion \\ 
+\hspace{0.5cm} Fall 2012, 2013; Spring 2012 (MSU TC 291) \\
+\hspace{0.5cm} Winter 2011 (Northwestern Comm Studies 395)
+
+Human Computer Interaction \\
+\hspace{0.5cm} Spring 2015 (CAS 992) \\
+\hspace{0.5cm} Spring 2013-2015 (MSU TC 845) \\
+\hspace{0.5cm} Spring 2012 (MSU TC 891)
+
+Online Communities \\
+\hspace{0.5cm} Spring 2011 (Northwestern Comm Studies 378)
+
+Multi-disciplinary Perspectives on Social Media Research \\
+\hspace{0.5cm} Spring 2011 (Northwestern Comm Studies 525) 
+
+\emph{Independent Study Projects Supervised} \\
+Rebecca Gray (MIS PhD): Spring 2013 \\
+Yumi Jung (MIS PhD): Fall 2012
+
+\emph{Co-Instructor} \\
+Doctoral Development Seminar (UMSI) \\
+with Cory Knobel and Yong-Mi Kim, Fall and Winter 2008 (UMSI)
+
+
+%--------------------------------------------------------------------------
+% STUDENT ADVISING
+\section{Students/Postdocs Supervised}
+
+\emph{Postdoctoral Researchers} \\
+Kami Vaniea, MSU. 2012-2014
+
+\emph{PhD Advisor} \\
+Yumi Jung, MIS, MSU. 2012-present \\
+Alina Lungeanu, TSB, Northwestern. 2010-2011
+
+\emph{Dissertation Committee Member} \\
+Wenjuan Ma, MIS PhD \\
+Janine Slaker, MIS PhD \\
+Jacob Solomon, MIS PhD
+
+\emph{Graduate Research Assistants} \\
+Chankyung Pak, MIS PhD. 2015-present \\
+Rebecca Gray, MIS PhD. 2013-2014 \\
+Yumi Jung, MIS PhD. 2012-2013 \\
+Laeeq Khan, MIS PhD. 2012-2013 \\
+Brandon Brooks, MIS PhD. 2011-2012 \\
+Alcides Velasquez, MIS PhD. 2011-2012 \\
+Shih-Chi Steven Chen, EECS MS, Northwestern. 2010-2011
+
+% \newpage
+\emph{MA Committee Member} \\
+Carl Anderson, TISM. 2013-present (as Chair) \\
+Bill Morgan, TISM. 2012-present \\
+Yang Zhang, 2014-present \\
+Chris Hamrick, TISM. 2011 \\
+Alison Virag-McCann, TISM. 2012-2013 
+
+
+% PRESENT
+\emph{Present Undergraduate Research Assistants} \\
+\footnotesize
+\emph{[All Undergrad RAs are from MSU unless otherwise noted.]\\}
+\normalsize
+Katie Hoban, Summer REU 2013 and 2014; and Fall 2013-present \\
+Meghan Huynh, Fall 2014-present \\
+Paul Rose, Summer 2012-present \\
+Paul Rosemurgy, Fall 2014-present \\
+
+% FORMER
+\emph{Former Undergraduate Research Assistants} \\
+\footnotesize
+\emph{[All Undergrad RAs are from MSU unless otherwise noted.]\\}
+\normalsize
+Howard Akumiah, Fall 2012-Spring 2013 \\
+Pierre Arellano (Washington State University), \href{http://grad.msu.edu/srop/}{MSU SROP Program} 2012 \\
+Cody Baker (University of Evansville), Summer REU 2014 \\
+Shiwani Bisht (Cornell University), Summer REU 2014 \\
+Jallal Elhazzat, Spring 2014 \\
+Zack Girouard, Fall 2012-Summer 2013 \\
+Leanarda Gregordi, Fall 2012 \\
+Tim Hasselbeck, Spring 2014 \\
+Raymond Heldt, Summer REU 2013 \\
+Alexandra Hinck (Beloit College), Summer REU 2013 \\
+Nathan Klein (Oberlin College), Summer REU 2014 \\
+Kyle Kulesza, Fall 2013-Spring 2014 \\
+Helen Kwok (Northwestern), 2011 \\
+Lauren McKown, Spring-Summer 2012 \\
+Tyler Olsen, Fall 2012-Spring 2013 \\
+Ruchira Ramani, Fall 2013 \\
+Michelle Rizor, Fall 2012-Spring 2014 \\
+Scott Rucinski, Fall 2013-Spring 2014 \\
+Nick Saxton, Summer REU 2013 and Fall 2012-Fall 2013 \\
+Kimberly Setili, Spring 2012 and Summer REU 2012 \\
+Alison Thierbach, Summer REU 2012 \\
+Elaine Wang (Northwestern), 2011 \\
+Nate Zemanek, Summer REU 2012 \\
+
+
+
+%--------------------------------------------------------------------------
+% PRESS COVERAGE
+\newpage
+\section{Press Coverage}
+
+\begin{itemize}
+\item I was interviewed for a TV news story about Facebook and privacy in October 2012: \href{http://www.wnem.com/video?clipId=7886591}{http://www.wnem.com/video?clipId=7886591}
+\item Our work on computer security was covered in a TechRepublic column in September 2012: \href{http://www.techrepublic.com/blog/security/inside-your-users-brains-where-they-get-security-advice/8361}{http://www.techrepublic.com/blog/security/inside-your-users-brains-where-they-get-security-advice/8361}
+\item I was interviewed for a news article about digital privacy, in April 2012: \href{http://www.lansingcitypulse.com/lansing/article-7288-phone-spy.html}{http://www.lansingcitypulse.com/lansing/article-7288-phone-spy.html}
+\item An MSU Press Release on Dec 16, 2011 about my collaborative NSF grant with Rick Wash was picked up by the Associated Press, which caused it to get mentioned around the web:
+	\begin{itemize}
+	\item Detroit Free Press: Jan 2, 2012. (dead link) http://www.freep.com/article/20120102/NEWS06/120102009/U-S-MSU-computer-security
+	\item The Republic: Jan 2, 2012. (dead link) http://www.therepublic.com/view/story/fb75369eb3e24afe9a05d62728b1f0ed/MI--Home-Computer-Security/
+	\item Lansing State Journal: Jan 2, 2012. (dead link) http://www.lansingstatejournal.com/usatoday/article/38251127
+	\item Green Bay Press-Gazette (and many other Gannett papers): Jan 2, 2012. (dead link) http://www.greenbaypressgazette.com/usatoday/article/38251127
+	\item WDIV Detroit: Jan 2, 2012. \href{http://www.clickondetroit.com/news/US-helps-MSU-profs-study-home-computer-security/-/1719418/7545626/-/90s71y/-/index.html}{http://www.clickondetroit.com/news/US-helps-MSU-profs-study-home-computer-security/-/1719418/7545626/-/90s71y/-/index.html}
+	\item MSU Press Release on Dec 16, 2011: \href{http://news.msu.edu/story/10148}{http://news.msu.edu/story/10148}
+	\end{itemize}
+\end{itemize}
+
+\end{document}
+
+
+%--------------------------------------------------------------------------
+% Removed...
+
+% TA / GSI at UM
+\emph{Graduate Student Instructor (TA)} \\
+Fundamentals of Human Behavior \\
+Winter 2009 (UMSI 688)
+
+Computer-Supported Cooperative Work \\
+Fall 2008 (UMSI 689) 
+
+Networked Computing: Storage, Communication, and Processing \\
+Fall 2007 (UMSI 502)
+
+Contextual Inquiry and Project Management \\
+Fall 2006 (UMSI 501)
+
+Use of Information \\
+Fall 2005 (UMSI 501)
+
+% \emph{Student Volunteer} \\
+% CHI 2006, 2007
+
+% \emph{Session Chair / Panel Moderator} \\
+% ``Tools Affecting the Enterprise,'' CHI 2010 \\
+% ``The Access Grid: Where the Vision Meets Reality,'' Supercomputing 2001
+
+
+
+%--------------------------------------------------------------------------
+% WORKING PAPERS
+\section{Working Papers}
+
+
+
+%--------------------------------------------------------------------------
+% PAPERS IN PREPARATION
+\section{Papers in Preparation}
+
+\textbf{Rader, E.} Cross-Pollination of Links Shared in Social Media Sites (working title).
+
+\textbf{Rader, E.}, Hemphill, L., Jung, Y. iHiring: The relationship between prestige and interdisciplinarity in iSchools academic hiring and placement (working title). 
+
+
+

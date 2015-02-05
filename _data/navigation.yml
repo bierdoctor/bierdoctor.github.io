@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Papers
+  url: /papers/
+
+- title: Projects
+  url: /projects/
+
+- title: Teaching
+  url: /teaching/
+
+- title: About Me
+  url: /about/
