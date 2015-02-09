@@ -2,11 +2,9 @@
 
 ### Now:
 specify the image size (for the random headers) in the layout, and it will not move while loading images....
-fiddle with the site's css to make it not look like crap (e.g., spacing around headers)
-figure out how to make the links on the abstract pages (paper.html layout) underlined
 make new images
-set up google analytics
 edit course descriptions; write new copy for PhD HCI course
+set up google analytics
 write new content for projects, home page
 
 ### Later:
