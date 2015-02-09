@@ -1,6 +1,6 @@
 ---
 title: Calendar
-layout: page
+layout: calendar
 comments: false
 share: false
 ---

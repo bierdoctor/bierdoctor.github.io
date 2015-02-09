@@ -1,10 +1,16 @@
 ## TODO
 
-figure out how to do rotating headers
+### Now:
+specify the image size (for the random headers) in the layout, and it will not move while loading images....
 fiddle with the site's css to make it not look like crap (e.g., spacing around headers)
 figure out how to make the links on the abstract pages (paper.html layout) underlined
-write new content
 make new images
+set up google analytics
+edit course descriptions; write new copy for PhD HCI course
+write new content for projects, home page
+
+### Later:
+work on the site architecture so the layouts make more sense (less redundancy)
 
 ## Documentation for Publication Formats
 

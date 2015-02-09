@@ -1,13 +1,8 @@
 ---
 layout: page
 title: Projects
-modified: 
 comments: false
 share: false
-image:
-  feature: sample-image-2.jpg
-  credit: 
-  creditlink: 
 ---
 
 ### Digital Privacy
