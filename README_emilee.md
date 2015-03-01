@@ -1,11 +1,8 @@
 ## TODO
 
 ### Now:
-specify the image size (for the random headers) in the layout, and it will not move while loading images....
 make new images
-edit course descriptions; write new copy for PhD HCI course
 set up google analytics
-write new content for projects, home page
 
 ### Later:
 work on the site architecture so the layouts make more sense (less redundancy)
