@@ -7,7 +7,7 @@ author: Kami Vaniea, Emilee Rader, and Rick Wash
 month: April
 year: 2014
 abstract: yes
-file: "itunes_CHI14_submitted.pdf"
+file: "itunes_CHI14_fixed.pdf"
 city: Toronto, Canada
 conference: CHI 2014
 doi: 10.1145/2556288.2557275
