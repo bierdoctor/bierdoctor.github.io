@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Emilee Rader
 comments: false
 share: false
 ---
