@@ -10,6 +10,7 @@ $(function() {
     'IMG_0692_crop.jpg',
     'IMG_0695_crop.jpg',
     'IMG_1029_crop.jpg',
+    'DSC04764_crop.jpg',
     'IMG_1059_crop.jpg',
     'IMG_1190_crop.jpg',
     'IMG_1364_crop.jpg',
