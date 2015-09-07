@@ -18,10 +18,10 @@ image:
 Communication Arts and Sciences  
 East Lansing, MI  48824
 
-**Click for a high resolution photo:**  
-<figure>
-	<a href="{{ site.url }}/images/emilee_rader.jpg"><img src="{{ site.url }}/images/emilee_rader_thumbnail.jpg"></a>
-</figure>
+<!-- **Click for a high resolution photo:**  -->
+<!-- <figure> -->
+<!-- 	<a href="{{ site.url }}/images/emilee_rader.jpg"><img src="{{ site.url }}/images/emilee_rader_thumbnail.jpg"></a> -->
+<!-- </figure> -->
 
 
 **Bio:**  
