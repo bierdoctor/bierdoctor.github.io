@@ -11,6 +11,7 @@ abstract: yes
 conference: CHI 2015
 month: April
 city: Seoul, Korea
+acmdl: http://dl.acm.org/citation.cfm?id=2702123.2702174
 ---
 
 <!-- 
