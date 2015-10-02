@@ -1,4 +1,4 @@
-  {{ post.author }}. "**{{ post.title }}**" _{{ post.journal }}_.
+  {{ post.author }}. "**{{ post.title }}**" _{{ post.journal }}_. 
   {% if post.volume %} Vol. {{ post.volume }} {% endif %}
   {% if post.number %} No. {{ post.number }} {% endif %}
   {% if post.pages %} pp. {{ post.pages }}. {% endif %}
