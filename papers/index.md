@@ -8,7 +8,7 @@ share: false
 ### Publications
 {% assign lastyear = 2100 %}
 {% for post in site.posts %}
-{% if post.type == 'conference' || post.type == 'journal' %}
+{% if post.type == 'conference' | post.type == 'journal' %}
 {% if lastyear != post.year %}
 {% assign lastyear = post.year %}
 {% endif %}
