@@ -6,7 +6,7 @@ share: false
 
 I am an Assistant Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). I also lead the [Behavior, Information and Technology Lab (BITLab)](https://bitlab.cas.msu.edu).
 
-My research program is focused on understanding the effects of feedback loops between human and algorithm behavior in socio-technical systems. A socio-technical system involves people, technology, and information; these parts all interact and influence each other, and without all three parts the system would not function as it should.
+My research program is focused on understanding the effects of interdependence and feedback loops between human and algorithm behavior in socio-technical systems. A socio-technical system involves people, technology, and information; these parts all interact and influence each other, and without all three parts the system would not function as it should.
 
 Lately, I have been working on how to measure systemic effects of the interaction between automated, personalized content filters like Facebook's News Feed Algorithm and the cognitive and social mechanisms behind users' content production and consumption behavior. For example, users' own awareness and understanding of what the filters are doing could cause them adjust their behavior in ways the algorithm isn't designed to handle properly, and this may have consequences for individual users and the system as a whole.
 
