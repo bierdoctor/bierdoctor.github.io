@@ -4,7 +4,7 @@ comments: false
 share: false
 ---
 
-I am an Assistant Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). I also lead the [Behavior, Information and Technology Lab (BITLab)](https://bitlab.cas.msu.edu).
+I am an Assistant Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). I am also a member of the [Behavior, Information and Technology Lab (BITLab)](https://bitlab.cas.msu.edu).
 
 My research program is focused on understanding the effects of interdependence and feedback loops between human and algorithm behavior in socio-technical systems. A socio-technical system involves people, technology, and information; these parts all interact and influence each other, and without all three parts the system would not function as it should.
 
