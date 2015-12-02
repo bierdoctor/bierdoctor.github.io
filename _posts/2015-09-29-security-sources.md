@@ -6,8 +6,11 @@ tags: security
 title: Identifying Patterns in Informal Sources of Security Information
 author: Emilee Rader and Rick Wash
 journal: Journal of Cybersecurity
-year: In Press
+year: 2015
 abstract: yes
+file: "cybsec.tyv008.full.pdf"
+link: "http://cybersecurity.oxfordjournals.org/content/early/2015/12/01/cybsec.tyv008.abstract?ijkey=zXmqzaCZUp0bJeD&keytype=ref"
+doi: "10.1093/cybsec/tyv008"
 ---
 
 Computer users have access to computer security information from many different sources, but few
