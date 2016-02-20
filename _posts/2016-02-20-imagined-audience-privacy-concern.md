@@ -3,9 +3,9 @@ layout: journal
 type: journal
 category: journal
 tags: privacy
-title: The imagined audience and privacy concern on Facebook: differences between producers and consumers
+title: "The imagined audience and privacy concern on Facebook: differences between producers and consumers"
 author: Yumi Jung and Emilee Rader
-journal: Social Media + Society
+journal: "Social Media + Society"
 year: in press
 abstract: yes
 file: 
