@@ -15,16 +15,13 @@ link: https://www.usenix.org/system/files/conference/soups2015/soups15-paper-was
 ---
 
 
-Home computers are frequently the target of malicious at-
-tackers because they are usually administered by non-experts.
+Home computers are frequently the target of malicious attackers because they are usually administered by non-experts.
 Prior work has found that users who make security decisions
-about their home computers often possess dierent mental
+about their home computers often possess different mental
 models of information security threats, and use those mental
 models to make decisions about security. Using a survey, we
 asked a large representative sample of United States Internet
-users about dierent causal beliefs related to computer secu-
-rity, and about the actions they regularly undertake to pro-
-tect their computers. We found demographic dierences in
+users about different causal beliefs related to computer security, and about the actions they regularly undertake to protect their computers. We found demographic differences in
 both beliefs about security and security behaviors that pose
 challenges for helping users become more informed about
 security. Many participants reported weakly held beliefs
