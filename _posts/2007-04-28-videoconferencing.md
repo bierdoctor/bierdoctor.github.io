@@ -12,6 +12,7 @@ month: April-May
 city: San Jose, CA
 pages: 849-852
 doi: 10.1145/1240624.1240751
+acmdl: "http://dl.acm.org/citation.cfm?id=1240751"
 ---
 
 Video connections can establish a media space in which

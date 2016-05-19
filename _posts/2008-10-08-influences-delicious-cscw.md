@@ -10,7 +10,7 @@ month: November
 year: 2008
 file: delicious-cscw-logistic+simulations.pdf
 appendix: cscw08/
-acmdl: http://dl.acm.org/citation.cfm?id=1460563.1460601
+acmdl: "http://dl.acm.org/citation.cfm?id=1460563.1460601"
 doi: 10.1145/1460563.1460601 
 abstract: yes
 ---
