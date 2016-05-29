@@ -6,7 +6,7 @@ tags: security
 title: "Understanding Password Choices: How Frequently Entered Passwords are Re-used Across Websites"
 author: Rick Wash, Emilee Rader, Ruthie Berman, and Zac Wellmer
 year: in press
-file: “SOUPS-2016-security-passwords-field-study.pdf”
+file: "SOUPS-2016-security-passwords-field-study.pdf"
 abstract: yes
 conference: SOUPS 2016
 month: June
