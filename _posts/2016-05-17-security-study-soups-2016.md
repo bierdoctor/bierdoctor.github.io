@@ -11,7 +11,7 @@ abstract: yes
 conference: SOUPS 2016
 month: June
 city: Denver, CO
-link: “https://www.usenix.org/conference/soups2016/technical-sessions/presentation/wash”
+link: "https://www.usenix.org/conference/soups2016/technical-sessions/presentation/wash"
 ---
 
 
