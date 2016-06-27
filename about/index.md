@@ -23,6 +23,8 @@ East Lansing, MI  48824
 <!-- 	<a href="{{ site.url }}/images/emilee_rader.jpg"><img src="{{ site.url }}/images/emilee_rader_thumbnail.jpg"></a> -->
 <!-- </figure> -->
 
+**CV:**  
+[http://bierdoctor.com/vita/vitaEJR.pdf](http://bierdoctor.com/vita/vitaEJR.pdf)
 
 **Bio:**  
 I earned my PhD at the University of Michigan’s [School of Information](https://www.si.umich.edu) in 2009. My undergraduate degree is from the University of Wisconsin-Madison, where I received a Bachelor of Science in [Psychology](http://psych.wisc.edu), and took some programming courses on the side. That experience led to my interest in human-computer interaction, and I also learned some skills that have proven to be incredibly useful for pretty much everything I have done professionally since then.

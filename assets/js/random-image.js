@@ -50,7 +50,9 @@ $(function() {
 	'DSC03553_crop.jpg',
 	'P1010193_crop.jpg',
 	'2014-11-22_19.08.19_crop.jpg',
-	'2014-11-22_18.18.35_crop.jpg'
+	'2014-11-22_18.18.35_crop.jpg',
+	'DXO_0134_crop.jpg',
+	'DXO_0144_crop.jpg'
   ];
   i = Math.floor(Math.random()*images.length);
   $('.image-wrap img').attr('src', '/images/headers/' + images[i]);   
