@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  19 MAY 2016 15:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 JUL 2016 19:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -381,18 +381,18 @@ LaTeX Font Info:    Font shape `OT1/pnc/bx/sc' in size <10> not available
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] 
 AED: lastpage setting LastPage
 [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 559.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 559.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 561.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 561.
  (/Users/emilee/Dropbox/workspace/git/bierdoctor-web/vita/.texpadtmp/vitaEJR.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 559.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 559.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 561.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 561.
 Package rerunfilecheck Info: File `vitaEJR.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 559.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 561.
  ) 
 Here is how much of TeX's memory you used:
  7739 strings out of 493117
@@ -403,7 +403,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  34i,12n,43p,313b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/tipa/tipa9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on /Users/emilee/Dropbox/workspace/git/bierdoctor-web/vita/.texpadtmp/vitaEJR.pdf (9 pages, 91983 bytes).
+Output written on /Users/emilee/Dropbox/workspace/git/bierdoctor-web/vita/.texpadtmp/vitaEJR.pdf (9 pages, 92103 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  136 compressed objects within 2 object streams
