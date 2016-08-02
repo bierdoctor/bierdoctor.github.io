@@ -12,7 +12,7 @@ Lately, I have been working on how to measure systemic effects of the interactio
 
 I am also working on how to help users manage the privacy social dilemma that arises when algorithms in ubiquitous computing systems make new inferences from the data they collect that help the system work better, but that users might not want to disclose. For example, data from internet-connected thermostats in many different households can be aggregated to calculate the ideal nighttime temperature in the winter for both comfort and energy savings; but, the same data might also be used to publicly shame people who are "wasting" energy by keeping their homes warmer at night.
 
-My work is currently funded by NSF awards [CNS-1115926](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1115926), [IIS-1217212](http://nsf.gov/awardsearch/showAward?AWD_ID=1217212) and [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, information privacy, feedback loops, sociotechnical systems, user-contributed content, human computer interaction.
+My work is currently funded by NSF awards [CNS-1115926](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1115926), [IIS-1217212](http://nsf.gov/awardsearch/showAward?AWD_ID=1217212) and [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, information privacy, derived data, ubiquitous computing, sociotechnical systems, user-contributed content, human computer interaction.
 
-During **Spring 2016** my office hours are Tuesdays and Thursdays, 4pm-5:30pm, in 420 CAS (or by appointment).
+During **Fall 2016** my office hours are by appointment.
 
