@@ -11,7 +11,7 @@ image:
 ---
 
 **Google Scholar Citation History:**  
-[https://scholar.google.com/citations?hl=en&user=emilee](https://scholar.google.com/citations?hl=en&user=emilee)
+[https://scholar.google.com/citations?user=uXpvv2V2xKkC](https://scholar.google.com/citations?user=uXpvv2V2xKkC)
 
 **Mailing address:**  
 404 Wilson Road, Room 420  
