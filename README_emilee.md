@@ -7,6 +7,10 @@ set up google analytics
 ### Later:
 work on the site architecture so the layouts make more sense (less redundancy)
 
+## How to add a paper
+
+Go to _posts, and add a new file for the paper. Name of the file needs to be formatted like 2016-10-19-ijhcs-surprise.md
+
 ## Documentation for Publication Formats
 
 All
