@@ -8,7 +8,7 @@ author: Emilee Rader and Rick Wash
 journal: Journal of Cybersecurity
 year: 2015
 volume: 1
-issue: 1
+number: 1
 abstract: yes
 file: "cybsec.tyv008.full.pdf"
 link: "http://cybersecurity.oxfordjournals.org/content/early/2015/12/01/cybsec.tyv008.abstract?ijkey=zXmqzaCZUp0bJeD&keytype=ref"
