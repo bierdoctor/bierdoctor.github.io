@@ -7,6 +7,8 @@ title: "The Imagined Audience and Privacy Concern on Facebook: Differences Betwe
 author: Yumi Jung and Emilee Rader
 journal: "Social Media + Society"
 year: 2016
+volume: 2
+number: 2
 abstract: yes
 file: "SocialMedia+Society-2016-Jung-Rader.pdf"
 link: "http://sms.sagepub.com/content/2/2/2056305116644615.abstract"
