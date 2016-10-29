@@ -6,9 +6,11 @@ tags: curation
 title: "Examining User Surprise as a Symptom of Algorithmic Filtering"
 author: Emilee Rader
 journal: "International Journal of Human-Computer Studies"
-year: in press
+year: 2017
+volume: 98
+pages: "72-88"
 abstract: yes
-file: 
+file: "rader-ijhcs-2017-final.pdf"
 link: "http://www.sciencedirect.com/science/article/pii/S1071581916301380"
 doi: "10.1016/j.ijhcs.2016.10.0055"
 ---
