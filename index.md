@@ -14,5 +14,5 @@ I am also working on how to help users manage the privacy social dilemma that ar
 
 My work is currently funded by NSF awards [CNS-1115926](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1115926), [IIS-1217212](http://nsf.gov/awardsearch/showAward?AWD_ID=1217212) and [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, information privacy, derived data, ubiquitous computing, sociotechnical systems, user-contributed content, human computer interaction.
 
-During **Fall 2016** my office hours are by appointment.
+During **Spring 2017** my office hours are Tuesdays and Wednesdays, 4-5:30pm.
 
