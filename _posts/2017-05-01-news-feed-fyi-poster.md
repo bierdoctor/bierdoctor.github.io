@@ -2,6 +2,7 @@
 layout: conference
 type: conference
 category: conference
+papertype: Poster
 tags: curation
 title: "Explaining the News Feed Algorithm: An Analysis of the News Feed FYI Blog"
 author: Kelley Cotter, Janghee Cho, and Emilee Rader
