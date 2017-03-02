@@ -1,5 +1,5 @@
 ---
-layout: conference
+layout: workshop
 type: workshop
 category: workshop
 tags: curation
@@ -10,7 +10,6 @@ workshop: CHI 2017 Extended Abstracts
 papertype: Poster
 month: May
 city: Denver, CO
-appendix: "news_feed_fyi_chi17_lbw_auxiliary_table.pdf"
 file: "news_feed_fyi_chi17_lbw.pdf"
 doi: 10.1145/3027063.3053114
 abstract: yes
@@ -20,4 +19,5 @@ Facebook uses algorithmic curation---automated selection and ranking of content-
 
 <!-- 
 acmdl: 
+appendix: "news_feed_fyi_chi17_lbw_auxiliary_table.pdf"
 -->
