@@ -1,13 +1,13 @@
 ---
-layout: conference
-type: conference
-category: conference
+layout: workshop
+type: workshop
+category: workshop
 papertype: Poster
 tags: curation
 title: "Explaining the News Feed Algorithm: An Analysis of the News Feed FYI Blog"
 author: Kelley Cotter, Janghee Cho, and Emilee Rader
 year: 2017
-conference: CHI 2017 Extended Abstract
+workshop: CHI 2017 Extended Abstract
 month: May
 city: Denver, CO
 abstract: true
