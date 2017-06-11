@@ -6,7 +6,7 @@ tags: privacy
 title: "The Importance of Visibility for Folk Theories of Sensor Data"
 author: Emilee Rader and Janine Slaker
 year: 2017
-file: 
+file: "rader_slaker_soups17_final.pdf"
 abstract: yes
 conference: SOUPS 2017
 month: July
