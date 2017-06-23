@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Emilee Rader
   avatar: bio-photo.jpg
-  bio: "Assistant Professor and AT&T Scholar @ Michigan State University"
+  bio: "Associate Professor and AT&T Scholar @ Michigan State University"
   cv: "/vita/vitaEJR.pdf"
   email: emilee@msu.edu
   calendar: calendar
@@ -36,7 +36,7 @@ owner:
   twitter: #username
   facebook: bierdoctor
   google:
-    plus: EmileeRader
+    plus: 
     analytics: 
     verify: 
     ad-client: 
