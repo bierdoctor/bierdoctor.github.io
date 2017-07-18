@@ -26,7 +26,7 @@ East Lansing, MI  48824
 **CV:**  
 [http://bierdoctor.com/vita/vitaEJR.pdf](http://bierdoctor.com/vita/vitaEJR.pdf)
 
-**Lab:**
+**Lab:**  
 The [Behavior, Information and Technology Lab (BITLab)](https://bitlab.cas.msu.edu).
 
 **Bio:**  
