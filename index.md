@@ -10,7 +10,9 @@ My research program is focused on understanding and finding solutions to problem
 
 Lately, I have been working on how to help users manage the privacy social dilemma that arises when algorithms in ubiquitous computing systems make new inferences from the data they collect to help the system work better, but that users might not want to disclose. For example, data collected by technologies like Fitbit activity trackers and digital assistants like Amazon's Alexa or the Google Home that is is stored in the cloud can be aggregated and analyzed in order to improve the functionality and services the systems provide. But, the same data might also be used to infer sensitive personal information about the people using these systems that they might want to keep to themselves. This project aims to identify norms for the use of derived data in a ubiquitous computing system, and design and evaluate a mechanism for coordination among users of the system such that they can jointly manage the derived data as a common-pool resource.
 
-My work is currently funded by NSF awards [CNS-1115926](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1115926), [IIS-1217212](http://nsf.gov/awardsearch/showAward?AWD_ID=1217212) and [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, information privacy, derived data, ubiquitous computing, sociotechnical systems, user-contributed content, human computer interaction.
+My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, information privacy, derived data, ubiquitous computing, sociotechnical systems, user-contributed content, human computer interaction.
 
-During **Summer 2017** my office hours are by appointment.
+In Fall 2017 am co-organizing an NSF-funded Workshop on Trustworthy Algorithmic Decision-Making ([CNS-1748381](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381)). More details about this are coming soon!
+
+*During **Fall 2017** my office hours are by appointment.*
 
