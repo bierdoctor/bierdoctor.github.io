@@ -53,14 +53,14 @@ $(function() {
 	'2014-11-22_18.18.35_crop.jpg',
 	'DXO_0134_crop.jpg',
 	'DXO_0144_crop.jpg',
-	'DXO_0162_crop.png',
-	'2017-08-05_19.08.20_crop.png',
-	'2017-05-29_15.54.27_crop.png',
-	'2017-05-27_09.27.56_crop.png',
-	'2017-05-24_10.57.21_crop.png',
-	'2017-05-24_10.32.33_crop.png',
-	'2017-05-23_20.00.45_crop.png',
-	'2016-07-05_20.01.09_crop.png'
+	'DXO_0162_crop.jpg',
+	'2017-08-05_19.08.20_crop.jpg',
+	'2017-05-29_15.54.27_crop.jpg',
+	'2017-05-27_09.27.56_crop.jpg',
+	'2017-05-24_10.57.21_crop.jpg',
+	'2017-05-24_10.32.33_crop.jpg',
+	'2017-05-23_20.00.45_crop.jpg',
+	'2016-07-05_20.01.09_crop.jpg'
   ];
   i = Math.floor(Math.random()*images.length);
   $('.image-wrap img').attr('src', '/images/headers/' + images[i]);   
