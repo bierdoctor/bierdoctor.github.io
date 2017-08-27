@@ -53,7 +53,7 @@ $(function() {
 	'2014-11-22_18.18.35_crop.jpg',
 	'DXO_0134_crop.jpg',
 	'DXO_0144_crop.jpg',
-	'DXO_0162_crop.png,
+	'DXO_0162_crop.png',
 	'2017-08-05_19.08.20_crop.png',
 	'2017-05-29_15.54.27_crop.png',
 	'2017-05-27_09.27.56_crop.png',
