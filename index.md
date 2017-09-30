@@ -12,5 +12,5 @@ Lately, I have been working on how to help users manage the privacy social dilem
 
 My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, information privacy, derived data, ubiquitous computing, sociotechnical systems, user-contributed content, human computer interaction.
 
-In Fall 2017 am co-organizing an NSF-funded **Workshop on Trustworthy Algorithmic Decision-Making** ([CNS-1748381](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381)). More details about this are coming soon!
+In Fall 2017 am co-organizing an NSF-funded **Workshop on Trustworthy Algorithmic Decision-Making** ([CNS-1748381](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381)). See [trustworthy-algorithms.org/](http://trustworthy-algorithms.org/) for more information!
 
