@@ -26,6 +26,6 @@ Presenting an invited talk titled **Conceptualizing Digital Privacy as a Social 
 
 Presenting the latest paper from my privacy grant, **The Importance of Visibility for Folk Theories of Sensor Data** at SOUPS 2017 (July 2017)
 
-Presenting at the [Workshop on Security and Human Behavior](https://www.cl.cam.ac.uk/~rja14/shb17/) at the University of Cambridge (May 2017)
+Presenting at the [**Workshop on Security and Human Behavior**](https://www.cl.cam.ac.uk/~rja14/shb17/) at the University of Cambridge (May 2017)
 
 
