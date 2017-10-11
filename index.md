@@ -12,5 +12,20 @@ Lately, I have been working on how to help users manage the privacy social dilem
 
 My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, information privacy, derived data, ubiquitous computing, sociotechnical systems, user-contributed content, human computer interaction.
 
-In Fall 2017 am co-organizing an NSF-funded **Workshop on Trustworthy Algorithmic Decision-Making** ([CNS-1748381](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381)). See [trustworthy-algorithms.org/](http://trustworthy-algorithms.org/) for more information!
+#### News
+
+Organizing and attending an NSF-funded [**Workshop on Trustworthy Algorithmic Decision-Making**](http://trustworthy-algorithms.org/) ([CNS-1748381](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381) (December 2017)
+
+Attending the [**Computing Research: Addressing National Priorities and Societal Needs 2017**](http://cra.org/ccc/events/computing-research-addressing-national-priorities-societal-needs-2017/) symposium in Washington DC (November 2017)
+
+<!--
+Attending the [**Bridging Industry and Academia to Tackle Responsible Research and Privacy Practices**](https://fpf.org/research-privacy-practices/) workshop at Facebook in New York (November 2017)
+-->
+
+Presenting an invited talk titled **Conceptualizing Digital Privacy as a Social Dilemma** at the [CSE Colloquia Series](https://engineering.wustl.edu/Events/Pages/CSE-Colloquia-Series-Emilee-Rader.aspx) at Washington University in St. Louis (October 2017)
+
+Presenting the latest paper from my privacy grant, **The Importance of Visibility for Folk Theories of Sensor Data** at SOUPS 2017 (July 2017)
+
+Presenting at the [Workshop on Security and Human Behavior](https://www.cl.cam.ac.uk/~rja14/shb17/) at the University of Cambridge (May 2017)
+
 
