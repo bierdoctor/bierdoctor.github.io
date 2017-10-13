@@ -16,7 +16,9 @@ My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.g
 
 - Organizing and attending an [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381) [**Workshop on Trustworthy Algorithmic Decision-Making**](http://trustworthy-algorithms.org/) (December 2017)
 
-- Attending the [**Computing Research: Addressing National Priorities and Societal Needs 2017**](http://cra.org/ccc/events/computing-research-addressing-national-priorities-societal-needs-2017/) symposium in Washington DC (November 2017)
+- Attending the [**Bridging Industry and Academia to Tackle Responsible Research and Privacy Practices**](https://fpf.org/research-privacy-practices/) workshop at Facebook in New York (November 2017)
+
+- Attending the [**Computing Research: Addressing National Priorities and Societal Needs 2017**](http://cra.org/ccc/events/computing-research-addressing-national-priorities-societal-needs-2017/) symposium in Washington DC (October 2017)
 
 - Presenting an invited talk, **Conceptualizing Digital Privacy as a Social Dilemma**, at the [CSE Colloquia Series](https://engineering.wustl.edu/Events/Pages/CSE-Colloquia-Series-Emilee-Rader.aspx) at Washington University in St. Louis (October 2017)
 
@@ -26,5 +28,4 @@ My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.g
 
 
 <!--
-- Attending the [**Bridging Industry and Academia to Tackle Responsible Research and Privacy Practices**](https://fpf.org/research-privacy-practices/) workshop at Facebook in New York (November 2017)
 -->
