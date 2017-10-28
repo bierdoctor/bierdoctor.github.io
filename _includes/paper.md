@@ -21,5 +21,5 @@
   {% if post.video %} [Video]({{ post.video }}) {% endif %}
   {% if post.poster %} [Poster](/papers/{{ post.poster }}) {% endif %}
   {% if post.osf %} [Data]({{post.osf}}) {% endif %}
-{% comment %}  {% if post.doi %} DOI [{{ post.doi }}](http://dx.doi.org/{{ post.doi }}) {% endif %} {% endcomment %}
+  {% if post.doi %} DOI [{{ post.doi }}](http://dx.doi.org/{{ post.doi }}) {% endif %} 
   {% if post.abstract or post.link or post.file or post.acmdl or post.appendix or post.video or post.poster or post.osf%}){% endif %}
