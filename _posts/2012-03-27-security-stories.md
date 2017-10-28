@@ -12,6 +12,7 @@ abstract: true
 file: securitystories-soups12-submitted.pdf
 acmdl: http://dl.acm.org/citation.cfm?id=2335356.2335364
 doi: 10.1145/2335356.2335364
+link: https://osf.io/9dfzn/
 tags: security
 ---
 
