@@ -6,7 +6,7 @@ tags: curation
 title: Explanations as Mechanisms for Supporting Algorithmic Transparency
 author: Emilee Rader, Kelley Cotter and Janghee Cho
 year: 2018
-conference: CHI 2018
+conference: To appear at CHI 2018
 month: April
 city: Montreal, Quebec, Canada
 abstract: false
