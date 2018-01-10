@@ -14,9 +14,9 @@ My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.g
 
 ### Recent News
 
-- Presenting the latest paper from my algorithmic curation grant, **Explanations as Mechanisms for Algorithmic Transparency**, at CHI 2018 (April 2018)
+- Presenting the latest paper from my algorithmic curation grant, **Explanations as Mechanisms for Algorithmic Transparency**, at CHI (April 2018)
 
-- Attending the iConference (March 2018) 
+- Attending the [2018 iConference](http://ischools.org/the-iconference/call-for-participation/) in Sheffield, UK (March 2018) 
 
 - Presenting an invited talk at the University of Illinois iSchool (February 2018)
 
