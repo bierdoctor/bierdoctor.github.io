@@ -14,6 +14,12 @@ My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.g
 
 ### Recent News
 
+- Presenting the latest paper from my algorithmic curation grant, **Explanations as Mechanisms for Algorithmic Transparency**, at CHI 2018 (April 2018)
+
+- Attending the iConference (March 2018) 
+
+- Presenting an invited talk at the University of Illinois iSchool (February 2018)
+
 - Organizing and attending an [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381) [**Workshop on Trustworthy Algorithmic Decision-Making**](http://trustworthy-algorithms.org/) (December 2017)
 
 - Attending the [**Bridging Industry and Academia to Tackle Responsible Research and Privacy Practices**](https://fpf.org/research-privacy-practices/) workshop at Facebook in New York (November 2017)
@@ -22,10 +28,8 @@ My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.g
 
 - Presenting an invited talk, **Conceptualizing Digital Privacy as a Social Dilemma**, at the [CSE Colloquia Series](https://engineering.wustl.edu/Events/Pages/CSE-Colloquia-Series-Emilee-Rader.aspx) at Washington University in St. Louis (October 2017)
 
+<!--
 - Presenting the latest paper from my privacy grant, [**The Importance of Visibility for Folk Theories of Sensor Data**](https://www.usenix.org/conference/soups2017/technical-sessions/presentation/rader), at SOUPS 2017 (July 2017)
 
 - Presenting at the [**Workshop on Security and Human Behavior**](https://www.cl.cam.ac.uk/~rja14/shb17/) at the University of Cambridge (May 2017)
-
-
-<!--
 -->
