@@ -11,7 +11,7 @@ month: April
 city: Montreal, Quebec, Canada
 abstract: true
 doi: "10.1145/3173574.3173677"
-appendix: "rader_chi18_supplementary_file.nb.html.zip"
+appendix: "rader_chi18_supplementary_file.nb.html"
 file: "rader_chi18.pdf"
 ---
 
