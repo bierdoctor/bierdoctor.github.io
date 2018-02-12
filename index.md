@@ -20,6 +20,8 @@ My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.g
 
 - Presenting an invited talk at the Penn State University College of Information Sciences and Technology (March 2018)
 
+- Presenting an invited talk at the University of Pittsburgh School of Computing and Information (February 2018)
+
 - Presenting an invited talk at the University of Illinois School of Information Sciences (February 2018)
 
 - Organizing and attending an [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381) [**Workshop on Trustworthy Algorithmic Decision-Making**](http://trustworthy-algorithms.org/) (December 2017)
