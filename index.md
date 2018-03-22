@@ -16,6 +16,8 @@ My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.g
 
 - Presenting the latest paper from my algorithmic curation grant, [**Explanations as Mechanisms for Algorithmic Transparency**](http://bierdoctor.com/papers/rader_chi18.pdf), at CHI (April 2018)
 
+- Presenting an invited talk at the University of Maryland College of Information Studies (April 2018)
+
 - Presenting an invited talk at the Penn State University College of Information Sciences and Technology (March 2018)
 
 - Presenting an invited talk at the University of Pittsburgh School of Computing and Information (February 2018)
