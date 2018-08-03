@@ -12,6 +12,7 @@ Lately, I have been working on how to help users manage the privacy social dilem
 
 My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, information privacy, derived data, ubiquitous computing, sociotechnical systems, user-contributed content, human computer interaction.
 
+<!--
 ### Recent News
 
 - Presenting the latest paper from my algorithmic curation grant, [**Explanations as Mechanisms for Algorithmic Transparency**](http://bierdoctor.com/papers/rader_chi18.pdf), at CHI (April 2018)
@@ -32,7 +33,6 @@ My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.g
 
 - Presenting an invited talk, **Conceptualizing Digital Privacy as a Social Dilemma**, at the [CSE Colloquia Series](https://engineering.wustl.edu/Events/Pages/CSE-Colloquia-Series-Emilee-Rader.aspx) at Washington University in St. Louis (October 2017)
 
-<!--
 - Presenting the latest paper from my privacy grant, [**The Importance of Visibility for Folk Theories of Sensor Data**](https://www.usenix.org/conference/soups2017/technical-sessions/presentation/rader), at SOUPS 2017 (July 2017)
 
 - Presenting at the [**Workshop on Security and Human Behavior**](https://www.cl.cam.ac.uk/~rja14/shb17/) at the University of Cambridge (May 2017)

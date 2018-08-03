@@ -14,7 +14,7 @@ image:
 [https://scholar.google.com/citations?user=uXpvv2V2xKkC](https://scholar.google.com/citations?user=uXpvv2V2xKkC)
 
 **Mailing address:**  
-404 Wilson Road, Room 420  
+404 Wilson Road, Room 436  
 Communication Arts and Sciences  
 Michigan State University  
 East Lansing, MI  48824
@@ -31,7 +31,7 @@ East Lansing, MI  48824
 The [Behavior, Information and Technology Lab (BITLab)](https://bitlab.cas.msu.edu) at MSU.
 
 **Office Hours:**  
-During **Spring 2018** my office hours are Wednesdays 3:30pm-5pm, or by appointment.
+During **Fall 2018** my office hours are by appointment.
 
 **Bio:**  
 Emilee Rader is an Associate Professor and AT&T Scholar in the [Department of Media and Information](http://mi.msu.edu) at Michigan State University. Her research addresses problems that arise at the intersection of people, technology, and information in socio-technical systems. These systems have great potential to help people and improve their lives; however, they also have the potential for harm. In particular, she focuses on socio-technical systems that are “black boxes” from the perspective of people using the system—the inputs and outputs can be observed, but the inner workings are hidden and are therefore hard for people to understand.
