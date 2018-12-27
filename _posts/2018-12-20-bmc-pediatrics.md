@@ -3,7 +3,7 @@ layout: journal
 type: journal
 category: journal
 title: "Ontogeny of alkaline phosphatase activity in infant intestines and breast milk"
-author: Ye Yang, Emilee Rader, Michele Peters-Carr, Rebecca C. Bent, Jennifer Smilowitz, Karen Guillemin, and Bethany Rader.
+author: Ye Yang, Emilee Rader, Michele Peters-Carr, Rebecca C. Bent, Jennifer Smilowitz, Karen Guillemin, and Bethany Rader
 journal: "BMC Pediatrics"
 year: "(To appear)"
 ---
