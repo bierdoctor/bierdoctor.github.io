@@ -4,7 +4,7 @@ type: conference
 category: conference
 title: "Wait, Do I Know This Person?: Managing Misdirected Email"
 author: Emilee Rader and Anjali Munasinghe
-year: To appear
+year: "(To appear)"
 conference: CHI 2019
 month: May
 city: Glasgow, UK
