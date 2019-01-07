@@ -2,7 +2,7 @@
 layout: conference
 type: conference
 category: conference
-title: "Wait, Do I Know This Person?: Managing Misdirected Email"
+title: "Wait, Do I Know This Person?: Understanding Misdirected Email"
 author: Emilee Rader and Anjali Munasinghe
 year: "(To appear)"
 conference: CHI 2019
