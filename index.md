@@ -4,19 +4,29 @@ comments: false
 share: false
 ---
 
-I am an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/).
 
-My research program is focused on understanding and finding solutions to problems that arise in sociotechnical systems as they become an increasingly invisible and indispensable part of everyday life. A sociotechnical system involves people, technology, and information; these parts all interact and influence each other, and without all three parts the system would not function as it should. These systems have great potential to help people and improve their lives; however, they also have the potential for harm. 
+I am a human computer interaction researcher studying how people interact with and understand computing systems that bring together people, data, and machine learning technologies. These systems are "black boxes": the people who use them can see and experience the inputs and outputs, but not the inner logic. This makes it very difficult to understand and reason about how they work, and to envision what the consequences of using them might be for individuals and society. For example, it is hard enough for end users of computing systems to be aware of the data that is collected about them, but it's even harder to understand how that data can be used to categorize their personal characteristics or activities, to make predictions about their future behavior and interests, and to infer sensitive, private information. I’m working to discover ways to help people take back some agency over the data they provide to the apps and platforms they use, so that they will have a way to influence what these systems can do and how they affect the world. 
 
-In particular, I focus on sociotechnical systems that are "black boxes" from the perspective of people using the system---the inputs and outputs can be observed, but the inner workings can't be and are therefore hard for people to reason about. A social dilemma arises when machine learning algorithms make new inferences from datasets containing information collected about large numbers of people over time. The inferences, or "derived data", can be used to provide beneficial functionality for people using these systems. But, the same data might also be used to infer sensitive personal information that people might want to keep to themselves. 
+I am currently an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). My research right now is funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research are: algorithmic curation, personalization, automation, digital privacy, derived data, ubiquitous computing, and sociotechnical systems.
 
-Right now, the systems people use give them few opportunities to learn about, let alone manage, the types of inferences and predictions that are being made using data they and others have provided. This means that people can't even begin to reason about consequences to themselves and others, because they don't have any way of knowing what inferences are possible. In my work, I'm trying to find ways to help people regain some agency with respect to the platforms they use, by creating opportunities that do not exacerbate information overload for people to be exposed to data and potential inferences. 
 
-My research is currently funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research interests are: algorithmic curation, personalization, automation, digital privacy, derived data, ubiquitous computing, sociotechnical systems, user-contributed content, and human computer interaction.
-
-<!--
 ### Recent News
 
+- I will be presenting my latest paper, [**Wait, Do I Know This Person?: Understanding Misdirected Email**](http://bierdoctor.com/papers/rader_chi19.pdf) at CHI 2019 (May 2019)
+
+- I will be presenting a talk titled, "Folk Theories of Security & Privacy" at the Security, Privacy and Human Behavior seminar at RSA Conference 2019 (March 2019)
+
+- I wrote an article for The Conversation in February 2019.
+
+- I appeared in a video for [Data Privacy Day](https://en.wikipedia.org/wiki/Data_Privacy_Day), [**Five Things you Might Not Know about Digital Privacy**](https://www.youtube.com/watch?v=Npv6z6-MjLw)
+
+- I presented an invited talk at the University of Colorado Boulder's Information Science [INFO seminar](https://calendar.colorado.edu/event/info_seminar_emilee_rader_implications_of_beliefs_about_derived_personal_data) (November 2018)
+
+- I presented an invited talk at the Indiana University Bloomington School of Informatics, Computing, and Engineering [SPICE Talk Series](https://spice.sice.indiana.edu/2018/11/02/spice-talk-series-features-professor-emilee-rader/) (October 2018)
+
+
+
+<!--
 - Presenting the latest paper from my algorithmic curation grant, [**Explanations as Mechanisms for Algorithmic Transparency**](http://bierdoctor.com/papers/rader_chi18.pdf), at CHI (April 2018)
 
 - Presenting an invited talk at the University of Maryland College of Information Studies (April 2018)
