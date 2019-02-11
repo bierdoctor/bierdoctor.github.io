@@ -20,7 +20,7 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 - I wrote an [article](http://theconversation.com/most-americans-dont-realize-what-companies-can-predict-from-their-data-110760) for The Conversation in February 2019.
 
-- I appeared in a video for [Data Privacy Day (January 28)](https://en.wikipedia.org/wiki/Data_Privacy_Day), [**Five Things you Might Not Know about Digital Privacy**](https://www.youtube.com/watch?v=Npv6z6-MjLw) (January 2019)
+- I appeared in a video for [Data Privacy Day](https://en.wikipedia.org/wiki/Data_Privacy_Day), [**Five Things you Might Not Know about Digital Privacy**](https://www.youtube.com/watch?v=Npv6z6-MjLw) (January 2019)
 
 - I presented an invited talk at the University of Colorado Boulder's Information Science [INFO seminar](https://calendar.colorado.edu/event/info_seminar_emilee_rader_implications_of_beliefs_about_derived_personal_data) (November 2018)
 
