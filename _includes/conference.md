@@ -3,4 +3,3 @@
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.
   {% if post.award %} *[{{ post.award}}]* {% endif %}
-  {% if post.note %} *[{{ post.note}}]* {% endif %}

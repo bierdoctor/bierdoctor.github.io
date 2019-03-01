@@ -4,4 +4,3 @@
   {% if post.pages %} pp. {{ post.pages }}. {% endif %}
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.
-  {% if post.note %} *[{{ post.note}}]* {% endif %}

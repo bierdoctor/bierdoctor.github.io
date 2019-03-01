@@ -23,3 +23,4 @@
   {% if post.poster %} [Poster](/papers/{{ post.poster }}) {% endif %}
   {% if post.osf %} [Data]({{post.osf}}) {% endif %}
   {% if post.abstract or post.link or post.file or post.acmdl or post.appendix or post.video or post.poster or post.osf%}){% endif %}
+  {% if post.note %} *[{{ post.note}}]* {% endif %}
