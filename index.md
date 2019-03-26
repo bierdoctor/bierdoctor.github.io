@@ -16,6 +16,8 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 - I will be presenting my latest paper, [**Wait, Do I Know This Person?: Understanding Misdirected Email**](http://bierdoctor.com/papers/rader_chi19.pdf) at CHI 2019 (May 2019)
 
+- I was interviewed for [a WILX-TV news piece](https://www.wilx.com/content/news/City-wants-data-shared-from-electric-scooters-507646781.html) about the privacy implications of local ordinances pertaining to electric scooters, regarding data that scooter companies will be required to provide to Lansing and East Lansing (March 2019)
+
 - I will be presenting a talk titled, "Folk Theories of Security & Privacy" at the Security, Privacy and Human Behavior seminar at RSA Conference 2019 (March 2019)
 
 - I wrote an [article](http://theconversation.com/most-americans-dont-realize-what-companies-can-predict-from-their-data-110760) for The Conversation in February 2019.
