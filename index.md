@@ -12,15 +12,19 @@ For example, it is hard enough for end users of computing systems to be aware of
 I am currently an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). My research right now is funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research are: algorithmic curation, personalization, automation, digital privacy, derived data, ubiquitous computing, and sociotechnical systems.
 
 
-### Recent News
+### Some things I've been up to lately...
 
-- I will be presenting my latest paper, [**Wait, Do I Know This Person?: Understanding Misdirected Email**](http://bierdoctor.com/papers/rader_chi19.pdf) at CHI 2019 (May 2019)
+- I am serving as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/).
+
+- I presented my latest paper, [**Wait, Do I Know This Person?: Understanding Misdirected Email**](http://bierdoctor.com/papers/rader_chi19.pdf) at CHI 2019 (May 2019)
 
 - I was interviewed for a WILX-TV news piece, [**City wants data shared about electric scooters**](https://www.wilx.com/content/news/City-wants-data-shared-from-electric-scooters-507646781.html) about the privacy implications of local ordinances requiring electric scooter companies to provide trip-level data to the cities of Lansing and East Lansing (March 2019)
 
-- I will be presenting a talk titled, "Folk Theories of Security & Privacy" at the Security, Privacy and Human Behavior seminar at RSA Conference 2019 (March 2019)
+- I presented a talk titled, "Folk Theories of Security & Privacy" at the Security, Privacy and Human Behavior seminar at RSA Conference 2019 (March 2019)
 
 - I wrote an article for The Conversation, [**Most Americans don’t realize what companies can predict from their data**](http://theconversation.com/most-americans-dont-realize-what-companies-can-predict-from-their-data-110760), in February 2019.
+
+- I was interviewed for a WMMT news piece about smartphones and privacy risks, [**I-Team: Security experts say smartphone technology raises privacy concerns**](https://wwmt.com/news/i-team/i-team-security-experts-say-smartphone-technology-raises-privacy-concerns), in January 2019
 
 - I appeared in a video for [Data Privacy Day](https://en.wikipedia.org/wiki/Data_Privacy_Day), [**Five Things you Might Not Know about Digital Privacy**](https://www.youtube.com/watch?v=Npv6z6-MjLw) (January 2019)
 
