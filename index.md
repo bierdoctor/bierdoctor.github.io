@@ -14,7 +14,9 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 ### Some things I've been up to lately...
 
-- I am serving as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/).
+- I am serving as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/authors/papers/selecting-a-subcommittee/#Privacy-Security).
+
+- I participated in the public television program [Media Meet](https://wnmutv.nmu.edu/programs/media-meet/), on WNMU-TV, affiliated with Northern Michigan University. Video link TBD.  
 
 - I presented my latest paper, [**Wait, Do I Know This Person?: Understanding Misdirected Email**](http://bierdoctor.com/papers/rader_chi19.pdf) at CHI 2019 (May 2019)
 
@@ -24,6 +26,8 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 - I wrote an article for The Conversation, [**Most Americans don’t realize what companies can predict from their data**](http://theconversation.com/most-americans-dont-realize-what-companies-can-predict-from-their-data-110760), in February 2019.
 
+
+<!--
 - I was interviewed for a WMMT news piece about smartphones and privacy risks, [**I-Team: Security experts say smartphone technology raises privacy concerns**](https://wwmt.com/news/i-team/i-team-security-experts-say-smartphone-technology-raises-privacy-concerns), in January 2019
 
 - I appeared in a video for [Data Privacy Day](https://en.wikipedia.org/wiki/Data_Privacy_Day), [**Five Things you Might Not Know about Digital Privacy**](https://www.youtube.com/watch?v=Npv6z6-MjLw) (January 2019)
@@ -32,9 +36,6 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 - I presented an invited talk at the Indiana University Bloomington School of Informatics, Computing, and Engineering [SPICE Talk Series](https://spice.sice.indiana.edu/2018/11/02/spice-talk-series-features-professor-emilee-rader/) (October 2018)
 
-
-
-<!--
 - Presenting the latest paper from my algorithmic curation grant, [**Explanations as Mechanisms for Algorithmic Transparency**](http://bierdoctor.com/papers/rader_chi18.pdf), at CHI (April 2018)
 
 - Presenting an invited talk at the University of Maryland College of Information Studies (April 2018)
