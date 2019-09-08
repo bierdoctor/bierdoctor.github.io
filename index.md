@@ -16,7 +16,7 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 - I am serving as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/authors/papers/selecting-a-subcommittee/#Privacy-Security).
 
-- I participated in the public television program [Media Meet](https://wnmutv.nmu.edu/programs/media-meet/), on WNMU-TV, affiliated with Northern Michigan University. Video link TBD.  
+- I participated in the public television program [Media Meet](https://wnmutv.nmu.edu/programs/media-meet/), on WNMU-TV, affiliated with Northern Michigan University. The episode titled, ["Social Media, Social Issues"](https://wnmuvideo.nmu.edu/video/social-media-social-issues-5xcv4w/) aired on Sept 1, 2019 and will be repeated on Sept 21 and 22, 2019.  
 
 - I presented my latest paper, [**Wait, Do I Know This Person?: Understanding Misdirected Email**](http://bierdoctor.com/papers/rader_chi19.pdf) at CHI 2019 (May 2019)
 
