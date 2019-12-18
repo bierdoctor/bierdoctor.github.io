@@ -11,7 +11,7 @@ number: 2
 doi: "10.1186/s12887-018-1379-1"
 abstract: yes
 link: "https://rdcu.be/bfloQ"
-note: "Dr. Rader's role: data analysis and manuscript preparation."
+note: "Dr. Emilee Rader's role: data analysis and manuscript preparation."
 ---
 
 Background: Necrotizing enterocolitis (NEC) is a devastating disease of intestinal inflammation that primarily affects
