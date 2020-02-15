@@ -20,7 +20,7 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 - Norbert Nthala will be presenting a poster at CHI 2020 that we worked on together, titled [**Towards a Conceptual Model for Provoking Privacy Speculation**](http://bierdoctor.com/papers/lbw_provoking_privacy_speculation_chi2020.pdf)
 
-- I am serving as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/authors/papers/selecting-a-subcommittee/#Privacy-Security).
+- I served as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/authors/papers/selecting-a-subcommittee/#Privacy-Security).
 
 - I participated in the public television program [Media Meet](https://wnmutv.nmu.edu/programs/media-meet/), on WNMU-TV, affiliated with Northern Michigan University. The episode titled, [**"Social Media, Social Issues"**](https://wnmuvideo.nmu.edu/video/social-media-social-issues-5xcv4w/) aired on Sept 1, 2019 and was repeated on Sept 21 and 22, 2019.  
 
