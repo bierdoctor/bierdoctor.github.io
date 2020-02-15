@@ -28,7 +28,7 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 - I was interviewed for a WILX-TV news piece, [**City wants data shared about electric scooters**](https://www.wilx.com/content/news/City-wants-data-shared-from-electric-scooters-507646781.html) about the privacy implications of local ordinances requiring electric scooter companies to provide trip-level data to the cities of Lansing and East Lansing (March 2019)
 
-- I presented a talk titled, "**Folk Theories of Security & Privacy**" at the Security, Privacy and Human Behavior seminar at RSA Conference 2019 (March 2019)
+- I presented a talk titled, **Folk Theories of Security & Privacy** at the Security, Privacy and Human Behavior seminar at RSA Conference 2019 (March 2019)
 
 
 <!--
