@@ -9,16 +9,16 @@ I am a human computer interaction researcher studying how people interact with a
 
 For example, it is hard enough for end users of computing systems to be aware of the data that is collected about them, but it's even harder to understand how that data can be used to categorize their personal characteristics or activities, to make predictions about their future behavior and interests, and to infer sensitive, private information. I’m working to discover ways to help people take back some agency over the data they provide to the apps and platforms they use, so that they will have a way to influence what these systems can do and how they affect the world. 
 
-I am currently an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). My research right now is funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research are: algorithmic curation, personalization, automation, digital privacy, derived data, ubiquitous computing, and sociotechnical systems.
+I am currently an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). My research right now is funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research are: digital privacy, inferences, social norms, algorithms, big data, sociotechnical systems.
 
 
 ### Some things I've been up to lately...
 
 - [**Why Johnny Can’t Unsubscribe: Barriers to Stopping Unwanted Email**](http://emileerader.com/papers/unsubscribing.pdf), a paper I coauthored with Jayati Dev and Sameer Patil from Indiana University, will be published at CHI 2020.
 
-- Samantha Hautea will be presenting a poster at CHI 2020 that we worked on together, along with Anjali Munasinghe, titled [**"That's Not Me": Surprising Algorithmic Inferences**](http://bierdoctor.com/papers/lbw_surprising_algorithmic_inferences_chi2020.pdf)
+- Samantha Hautea, Anjali Munasinghe and I are authors of a CHI 2020 LBW titled [**"That's Not Me": Surprising Algorithmic Inferences**](http://bierdoctor.com/papers/lbw_surprising_algorithmic_inferences_chi2020.pdf)
 
-- Norbert Nthala will be presenting a poster at CHI 2020 that we worked on together, titled [**Towards a Conceptual Model for Provoking Privacy Speculation**](http://bierdoctor.com/papers/lbw_provoking_privacy_speculation_chi2020.pdf)
+- Norbert Nthala and I are authors of a CHI 2020 LBW titled [**Towards a Conceptual Model for Provoking Privacy Speculation**](http://bierdoctor.com/papers/lbw_provoking_privacy_speculation_chi2020.pdf)
 
 - I served as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/authors/papers/selecting-a-subcommittee/#Privacy-Security).
 
