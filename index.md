@@ -14,9 +14,9 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 ### Some things I've been up to lately...
 
-- My paper with Samantha Hautea and Anjali Munasinghe about how people interpret the inferences that Facebook and Google make about them was accepted to SOUPS 2020.
+- My paper with Samantha Hautea and Anjali Munasinghe, **“I Have a Narrow Thought Process: Constraints on Explanations Connecting Inferences and Self-Perceptions”**, which is about how people interpret the inferences that Facebook and Google make about them, was accepted to SOUPS 2020.
 
-- I published two papers in Proceedings of the ACM on Human-Computer Interaction in May 2020: [“It’s the Wild, Wild West: Lessons Learned From IRB Members’ Risk Perceptions Toward Digital Research Data”](http://emileerader.com/papers/huh-yoo_rader_cscw20.pdf) with [Jina Huh-Yoo](http://jinahuhyoo.com/) at Drexel, and [“The Role of Conversational Grounding in Supporting Symbiosis Between People and Digital Assistants”](http://emileerader.com/papers/cho_rader_cscw20.pdf) with [Janghee Cho](https://www.colorado.edu/cmci/people/graduate-students/information-science/janghee-cho) at University of Colorado Boulder
+- I published two papers in Proceedings of the ACM on Human-Computer Interaction in May 2020: [**“It’s the Wild, Wild West: Lessons Learned From IRB Members’ Risk Perceptions Toward Digital Research Data”**](http://emileerader.com/papers/huh-yoo_rader_cscw20.pdf) with [Jina Huh-Yoo](http://jinahuhyoo.com/) at Drexel, and [**“The Role of Conversational Grounding in Supporting Symbiosis Between People and Digital Assistants”**](http://emileerader.com/papers/cho_rader_cscw20.pdf) with [Janghee Cho](https://www.colorado.edu/cmci/people/graduate-students/information-science/janghee-cho) at University of Colorado Boulder
 
 - [**Why Johnny Can’t Unsubscribe: Barriers to Stopping Unwanted Email**](http://emileerader.com/papers/unsubscribing.pdf), a paper I coauthored with Jayati Dev and Sameer Patil from Indiana University, will be published at CHI 2020.
 
