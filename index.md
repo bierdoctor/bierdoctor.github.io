@@ -14,12 +14,18 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 ### Some things I've been up to lately...
 
+- My paper with Samantha Hautea and Anjali Munasinghe about how people interpret the inferences that Facebook and Google make about them was accepted to SOUPS 2020.
+
+- I published two papers in Proceedings of the ACM on Human-Computer Interaction in May 2020: [“It’s the Wild, Wild West: Lessons Learned From IRB Members’ Risk Perceptions Toward Digital Research Data”](http://emileerader.com/papers/huh-yoo_rader_cscw20.pdf) with [Jina Huh-Yoo](http://jinahuhyoo.com/) at Drexel, and [“The Role of Conversational Grounding in Supporting Symbiosis Between People and Digital Assistants”](http://emileerader.com/papers/cho_rader_cscw20.pdf) with [Janghee Cho](https://www.colorado.edu/cmci/people/graduate-students/information-science/janghee-cho) at University of Colorado Boulder
+
 - [**Why Johnny Can’t Unsubscribe: Barriers to Stopping Unwanted Email**](http://emileerader.com/papers/unsubscribing.pdf), a paper I coauthored with Jayati Dev and Sameer Patil from Indiana University, will be published at CHI 2020.
 
-- Samantha Hautea, Anjali Munasinghe and I are authors of a CHI 2020 LBW titled [**"That's Not Me": Surprising Algorithmic Inferences**](http://bierdoctor.com/papers/lbw_surprising_algorithmic_inferences_chi2020.pdf)
+- Samantha Hautea, Anjali Munasinghe and I are authors of a CHI 2020 LBW titled [**"That's Not Me": Surprising Algorithmic Inferences**](http://emileerader.com/papers/lbw_surprising_algorithmic_inferences_chi2020.pdf)
 
-- Norbert Nthala and I are authors of a CHI 2020 LBW titled [**Towards a Conceptual Model for Provoking Privacy Speculation**](http://bierdoctor.com/papers/lbw_provoking_privacy_speculation_chi2020.pdf)
+- Norbert Nthala and I are authors of a CHI 2020 LBW titled [**Towards a Conceptual Model for Provoking Privacy Speculation**](http://emileerader.com/papers/lbw_provoking_privacy_speculation_chi2020.pdf)
 
+
+<!--
 - I served as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/authors/papers/selecting-a-subcommittee/#Privacy-Security).
 
 - I participated in the public television program [Media Meet](https://wnmutv.nmu.edu/programs/media-meet/), on WNMU-TV, affiliated with Northern Michigan University. The episode titled, [**"Social Media, Social Issues"**](https://wnmuvideo.nmu.edu/video/social-media-social-issues-5xcv4w/) aired on Sept 1, 2019 and was repeated on Sept 21 and 22, 2019.  
@@ -30,8 +36,6 @@ I am currently an Associate Professor in the [Department of Media and Informatio
 
 - I presented a talk titled, **Folk Theories of Security & Privacy** at the Security, Privacy and Human Behavior seminar at RSA Conference 2019 (March 2019)
 
-
-<!--
 - I wrote an article for The Conversation, [**Most Americans don’t realize what companies can predict from their data**](http://theconversation.com/most-americans-dont-realize-what-companies-can-predict-from-their-data-110760), in February 2019.
 
 - I was interviewed for a WMMT news piece about smartphones and privacy risks, [**I-Team: Security experts say smartphone technology raises privacy concerns**](https://wwmt.com/news/i-team/i-team-security-experts-say-smartphone-technology-raises-privacy-concerns), in January 2019
