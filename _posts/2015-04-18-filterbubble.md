@@ -11,14 +11,9 @@ abstract: yes
 conference: CHI 2015
 month: April
 city: Seoul, Korea
-acmdl: http://dl.acm.org/citation.cfm?id=2702123.2702174
+acmdl: "http://dl.acm.org/citation.cfm?id=2702123.2702174"
+doi:"10.1145/2702123.2702174"
 ---
-
-<!-- 
-pages: 
-acmdl: 
-doi: 
- -->
 
 People are becoming increasingly reliant on online sociotechnical
 systems that employ algorithmic curation to organize,
