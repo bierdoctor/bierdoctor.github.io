@@ -4,13 +4,13 @@ type: conference
 category: conference
 title: "Why Johnny Can't Unsubscribe: Barriers to Stopping Unwanted Email"
 author: Jayati Dev, Emilee Rader and Sameer Patil
-year: "(2020)"
+year: 2020
 conference: CHI 2020
 month: April
 city: Honolulu, HI
 abstract: true
 doi: "10.1145/3313831.3376165"
-acmdl:"https://dl.acm.org/doi/10.1145/3313831.3376165"
+acmdl: "https://dl.acm.org/doi/10.1145/3313831.3376165"
 file: "unsubscribing.pdf"
 appendix: "unsubscribing-supplementarymaterials.pdf"
 ---
