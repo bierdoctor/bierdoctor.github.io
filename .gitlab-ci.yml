@@ -1,0 +1,7 @@
+deploy:
+    stage: deploy
+    script:
+        - /home/rwash/.rbenv/versions/2.7.1/bin/jekyll build
+        - rm -rf /var/www/bierdoctor.com
+        - mv _site /var/www/bierdoctor.com
+        - restorecon -R -v /var/www/bierdoctor.com
