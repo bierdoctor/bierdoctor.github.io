@@ -5,12 +5,6 @@ comments: false
 share: false
 ---
 
-I currently have three active research projects:
-
-* [Managing Privacy of Derived Data](#managing-privacy-of-derived-data)
-* [Algorithmic Curation in Social Media](#algorithmic-curation-in-social-media)
-* [Mental Models of Computer Security](#mental-models-of-computer-security)
-<br /><br /><br />
 
 ### Managing Privacy of Derived Data
 Sensors, usage logs, and other forms of automated collection of personal data are becoming harder if not impossible to avoid; from personal health and fitness trackers to city-wide surveillance cameras to web application and server logs, they are a pervasive aspect of the physical and digital infrastructure around us. In isolation, sensor data may seem non-sensitive and harmless; however, aggregation produces derived data consisting of new insights and inferences that are not obvious to users and can be surprising, unsettling or harmful when used for unexpected purposes.
