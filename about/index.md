@@ -28,7 +28,7 @@ Room 436, Communication Arts and Sciences Building
 <!-- </figure> -->
 
 **CV:**  
-[http://bierdoctor.com/vita/vitaEJR.pdf](http://bierdoctor.com/vita/vitaEJR.pdf)
+[http://emileerader.com/vita/vitaEJR.pdf](http://emileerader.com/vita/vitaEJR.pdf)
 
 **Lab:**  
 The [Behavior, Information and Technology Lab (BITLab)](https://bitlab.cas.msu.edu) at MSU. Room 249 Comm Arts.
