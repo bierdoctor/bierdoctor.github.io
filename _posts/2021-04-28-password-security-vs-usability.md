@@ -3,7 +3,7 @@ layout: journal
 type: journal
 category: journal
 tags: security
-title: Prioritizing Security over Usability: Strategies for How People Choose Passwords
+title: "Prioritizing Security over Usability: Strategies for How People Choose Passwords'
 author: Rick Wash and Emilee Rader
 journal: Journal of Cybersecurity
 year: In press
