@@ -8,7 +8,7 @@ author: Rick Wash and Emilee Rader
 journal: Journal of Cybersecurity
 volume: 
 number: 
-year: In press
+year: "In press"
 abstract: yes
 doi: "10.1093/cybsec/tyab012"
 ---
