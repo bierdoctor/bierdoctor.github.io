@@ -9,23 +9,26 @@ I am a human computer interaction researcher studying how people interact with a
 
 For example, it is hard enough for end users of computing systems to be aware of the data that is collected about them, but it's even harder to understand how that data can be used to categorize their personal characteristics or activities, to make predictions about their future behavior and interests, and to infer sensitive, private information. I’m working to discover ways to help people take back some agency over the data they provide to the apps and platforms they use, so that they will have a way to influence what these systems can do and how they affect the world. 
 
-I am currently an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). My research right now is funded by NSF SaTC award [CNS-1524296](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1524296), and by an endowment to MSU from AT&T. Some keywords to describe my research are: digital privacy, inferences, social norms, algorithms, big data, sociotechnical systems.
+I am currently an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). Some keywords to describe my research are: digital privacy, inferences, social norms, algorithms, big data, sociotechnical systems.
 
 
 ### Some things I've been up to lately...
+
+- Rick Wash and have a paper forthcoming in the Journal of Cybersecurity titled **"Prioritizing Security over Usability: Strategies for How People Choose Passwords"**. 
 
 - My paper with Samantha Hautea and Anjali Munasinghe, [**“I Have a Narrow Thought Process: Constraints on Explanations Connecting Inferences and Self-Perceptions”**](https://bierdoctor.com/papers/inferences_SOUPS_2020_final.pdf), which is about how people interpret the inferences that Facebook and Google make about them, received the SOUPS Privacy Award at SOUPS 2020!
 
 - I published two papers in Proceedings of the ACM on Human-Computer Interaction in May 2020: [**“It’s the Wild, Wild West: Lessons Learned From IRB Members’ Risk Perceptions Toward Digital Research Data”**](http://emileerader.com/papers/huh-yoo_rader_cscw20.pdf) with [Jina Huh-Yoo](http://jinahuhyoo.com/) at Drexel, and [**“The Role of Conversational Grounding in Supporting Symbiosis Between People and Digital Assistants”**](http://emileerader.com/papers/cho_rader_cscw20.pdf) with [Janghee Cho](https://www.colorado.edu/cmci/people/graduate-students/information-science/janghee-cho) at University of Colorado Boulder
 
+
+
+<!--
 - [**Why Johnny Can’t Unsubscribe: Barriers to Stopping Unwanted Email**](http://emileerader.com/papers/unsubscribing.pdf), a paper I coauthored with Jayati Dev and Sameer Patil from Indiana University, will be published at CHI 2020.
 
 - Samantha Hautea, Anjali Munasinghe and I are authors of a CHI 2020 LBW titled [**"That's Not Me": Surprising Algorithmic Inferences**](http://emileerader.com/papers/lbw_surprising_algorithmic_inferences_chi2020.pdf)
 
 - Norbert Nthala and I are authors of a CHI 2020 LBW titled [**Towards a Conceptual Model for Provoking Privacy Speculation**](http://emileerader.com/papers/lbw_provoking_privacy_speculation_chi2020.pdf)
 
-
-<!--
 - I served as co-chair for the Privacy and Security subcommittee of [CHI 2020](https://chi2020.acm.org/authors/papers/selecting-a-subcommittee/#Privacy-Security).
 
 - I participated in the public television program [Media Meet](https://wnmutv.nmu.edu/programs/media-meet/), on WNMU-TV, affiliated with Northern Michigan University. The episode titled, [**"Social Media, Social Issues"**](https://wnmuvideo.nmu.edu/video/social-media-social-issues-5xcv4w/) aired on Sept 1, 2019 and was repeated on Sept 21 and 22, 2019.  
