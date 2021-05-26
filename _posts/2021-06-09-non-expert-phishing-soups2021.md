@@ -13,5 +13,5 @@ year: "In press"
 abstract: yes
 file: "inferences_SOUPS_2020_final.pdf"
 link: "https://www.usenix.org/conference/soups2020/presentation/rader"
-appendix: "https://osf.io/82sd9/"
+osf: "https://osf.io/82sd9/"
 -->
