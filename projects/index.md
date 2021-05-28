@@ -5,7 +5,7 @@ comments: false
 share: false
 ---
 
-Descriptions of my ongoing research projects are below. For information on my past projects, please click [here](/past_projects)
+Descriptions of my ongoing research projects are below. For information on my past projects, please click [here](/past_projects).
 
 ### Managing Privacy of Derived Data
 Sensors, usage logs, and other forms of automated collection of personal data are becoming harder if not impossible to avoid; from personal health and fitness trackers to city-wide surveillance cameras to web application and server logs, they are a pervasive aspect of the physical and digital infrastructure around us. In isolation, sensor data may seem non-sensitive and harmless; however, aggregation produces derived data consisting of new insights and inferences that are not obvious to users and can be surprising, unsettling or harmful when used for unexpected purposes.
@@ -27,7 +27,7 @@ This project is supported by National Science Foundation under Grant No. [CNS-15
 ### Misdirected Email
 
 {% for post in site.posts %}
-{% if post.tags contains 'curation' %}
+{% if post.tags contains 'misdirectedemail' %}
 {% capture pub %}
 {% include paper.md %}
 {% endcapture %}

@@ -2,6 +2,7 @@
 layout: conference
 type: conference
 category: conference
+tags: misdirectedemail
 title: "Why Johnny Can't Unsubscribe: Barriers to Stopping Unwanted Email"
 author: Jayati Dev, Emilee Rader and Sameer Patil
 year: 2020
