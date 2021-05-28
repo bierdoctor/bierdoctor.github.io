@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Current Projects
 comments: false
 share: false
 ---
