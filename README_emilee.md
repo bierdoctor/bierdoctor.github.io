@@ -1,11 +1,8 @@
-## TODO
+## Notes
 
-### Now:
-make new images
-set up google analytics
+- the links for the top navigation bar are at _data > navigation.yml
 
-### Later:
-work on the site architecture so the layouts make more sense (less redundancy)
+
 
 ## How to add a paper
 
