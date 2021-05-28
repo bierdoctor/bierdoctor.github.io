@@ -25,9 +25,7 @@ This project is supported by National Science Foundation under Grant No. [CNS-15
 
 
 ### Misdirected Email
-Email is an essential tool for communication and social interaction. It also functions as a broadcast medium connecting businesses with their customers, as an authentication mechanism, and as a vector for scams and security threats. These uses are enabled by the fact that the only barrier to reaching someone by email is knowing his or her email address. This feature has given rise to the spam email industry but also has another side-effect that is becoming increasingly common: misdirected email, or legitimate emails that are intended for somebody else but are sent to the wrong recipient. 
-
-This creates a situation where at best, misdirected email contributes to email overload and at worst, sensitive private information can be revealed to unintended third parties. I am studying what causes misdirected email to be sent, how people respond to it, and what might be done to help both senders and recipients prevent it.
+Email is an essential tool for communication and social interaction that has been repurposed over the years as a broadcast medium connecting businesses with their customers, and as an authentication mechanism. These uses are enabled by the fact that the only barrier to reaching someone by email is knowing their email address. This feature has made email an attractive platform for scammers and a vector for security threats, but it also has another side-effect that is becoming increasingly common: misdirected email, or legitimate emails that are intended for somebody else but are sent to the wrong recipient. At best, misdirected email contributes to email overload; but at worst, sensitive private information can be revealed via misdirected email to unintended third parties. I am studying what causes misdirected email to be sent, how people respond to it, and what might be done to help both senders and recipients prevent it.
 
 
 {% for post in site.posts %}
