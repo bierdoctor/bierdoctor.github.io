@@ -7,7 +7,7 @@ title: "I Have a Narrow Thought Process: Constraints on Explanations Connecting 
 author: Emilee Rader, Samantha Hautea and Anjali Munasinghe
 year: 2020
 abstract: yes
-conference: SOUPS 2020
+conference: "Symposium on Usable Privacy and Security (SOUPS)"
 file: "inferences_SOUPS_2020_final.pdf"
 link: "https://www.usenix.org/conference/soups2020/presentation/rader"
 award: "IAPP SOUPS Privacy Award"

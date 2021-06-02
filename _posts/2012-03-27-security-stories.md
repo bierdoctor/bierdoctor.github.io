@@ -4,7 +4,7 @@ type: conference
 category: conference
 title: Stories as Informal Lessons About Security
 author: Emilee Rader, Rick Wash and Brandon Brooks
-conference: Proceedings of the Symposium on Usable Privacy and Security (SOUPS)
+conference: "Symposium on Usable Privacy and Security (SOUPS)"
 month: July
 year: 2012
 city: Washington, DC

@@ -8,7 +8,7 @@ author: Rick Wash, Emilee Rader, Ruthie Berman, and Zac Wellmer
 year: 2016
 file: "SOUPS-2016-security-passwords-field-study.pdf"
 abstract: yes
-conference: SOUPS 2016
+conference: "Symposium on Usable Privacy and Security (SOUPS)"
 month: June
 city: Denver, CO
 link: "https://www.usenix.org/conference/soups2016/technical-sessions/presentation/wash"

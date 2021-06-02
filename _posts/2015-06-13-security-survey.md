@@ -8,7 +8,7 @@ author: Rick Wash and Emilee Rader
 year: 2015
 file: "security-survey-soups-2015.pdf"
 abstract: yes
-conference: SOUPS 2015
+conference: "Symposium on Usable Privacy and Security (SOUPS)"
 month: July
 city: Ottawa, Canada
 link: "https://www.usenix.org/conference/soups2015/proceedings/presentation/wash"

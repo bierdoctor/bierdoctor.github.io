@@ -5,7 +5,7 @@ category: conference
 tags: security
 title: "Out of the Loop: How Automated Software Updates Cause Unintended Security Consequences"
 author: Rick Wash, Emilee Rader, Kami Vaniea, and Michelle Rizor
-conference: Proceedings of the Symposium on Usable Privacy and Security (SOUPS)
+conference: "Symposium on Usable Privacy and Security (SOUPS)"
 month: July
 year: 2014
 city: Menlo Park, CA

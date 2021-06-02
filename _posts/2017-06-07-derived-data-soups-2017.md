@@ -8,7 +8,7 @@ author: Emilee Rader and Janine Slaker
 year: 2017
 file: "rader_slaker_soups17_final.pdf"
 abstract: yes
-conference: SOUPS 2017
+conference: "Symposium on Usable Privacy and Security (SOUPS)"
 month: July
 city: Santa Clara, CA
 link: "https://www.usenix.org/conference/soups2017/technical-sessions/presentation/rader"
