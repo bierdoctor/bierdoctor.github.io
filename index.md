@@ -9,10 +9,12 @@ I am a human computer interaction researcher studying how people interact with a
 
 For example, it is hard enough for end users of computing systems to be aware of the data that is collected about them, but it's even harder to understand how that data can be used to categorize their personal characteristics or activities, to make predictions about their future behavior and interests, and to infer sensitive, private information. I’m working to discover ways to help people take back some agency over the data they provide to the apps and platforms they use, so that they will have a way to influence what these systems can do and how they affect the world. 
 
-I am currently an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). Some keywords to describe my research are: digital privacy, inferences, social norms, algorithms, big data, sociotechnical systems.
+I am an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). Some keywords to describe my research are: digital privacy, inferences, social norms, algorithms, big data, sociotechnical systems.
 
 
-### Some things I've been up to lately...
+### Some things I've been up to recently...
+
+- Rick Wash, Norbert Nthala and I have a forthcoming paper at the 2021 Symposium on Usable Privacy and Security (SOUPS) in August, titled **"Knowledge and Capabilities that Non-Expert Users Bring to Phishing Detection"**. 
 
 - Rick Wash and have a paper forthcoming in the Journal of Cybersecurity titled **"Prioritizing Security over Usability: Strategies for How People Choose Passwords"**. 
 
