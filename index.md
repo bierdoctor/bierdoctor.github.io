@@ -16,7 +16,7 @@ I am an Associate Professor in the [Department of Media and Information](http://
 
 - Rick Wash, Norbert Nthala and I have a forthcoming paper at the 2021 Symposium on Usable Privacy and Security (SOUPS) in August, titled **"Knowledge and Capabilities that Non-Expert Users Bring to Phishing Detection"**. 
 
-- Rick Wash and have a paper forthcoming in the Journal of Cybersecurity titled **"Prioritizing Security over Usability: Strategies for How People Choose Passwords"**. 
+- Rick Wash and I have a paper forthcoming in the Journal of Cybersecurity titled **"Prioritizing Security over Usability: Strategies for How People Choose Passwords"**. 
 
 - My paper with Samantha Hautea and Anjali Munasinghe, [**“I Have a Narrow Thought Process: Constraints on Explanations Connecting Inferences and Self-Perceptions”**](https://bierdoctor.com/papers/inferences_SOUPS_2020_final.pdf), which is about how people interpret the inferences that Facebook and Google make about them, received the SOUPS Privacy Award at SOUPS 2020!
 
