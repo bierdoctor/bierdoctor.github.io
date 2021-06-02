@@ -5,7 +5,7 @@ category: conference
 title: "Knowledge and Capabilities that Non-Expert Users Bring to Phishing Detection"
 author: "Rick Wash, Norbert Nthala and Emilee Rader"
 year: 2021
-abstract: 
+abstract: yes
 file: "phishing-stories-SOUPS-2021.pdf"
 link: 
 conference: "Symposium on Usable Privacy and Security (SOUPS)"
