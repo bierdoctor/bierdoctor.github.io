@@ -6,7 +6,7 @@ tags: privacy
 title: "\"Assertive driver, I can imagine that\": Interpretations of Inferences from Driving Data"
 author: Hautea, S., Nthala, N., Kollig, F., Ferraz, J.M., and Rader, E.
 year: 2021
-workshop: "Poster presented at the 2021 Symposium on Usable Privacy and Security"
+workshop: "2021 Symposium on Usable Privacy and Security"
 papertype: Poster
 abstract: true
 file: "drivingposter_SOUPS2021_abstract_cameraready.pdf"
