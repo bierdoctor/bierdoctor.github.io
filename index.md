@@ -14,13 +14,13 @@ I am an Associate Professor in the [Department of Media and Information](http://
 
 ### Some things I've been up to recently...
 
-- Samantha Hautea presented our poster, [“Assertive driver, I can imagine that”: Interpretations of Inferences from Driving Data](https://www.usenix.org/conference/soups2021/presentation/hautea), at SOUPS 2021. This work was coauthored with Norbert Nthala, Faye Kollig, and João Marcelo Ferraz.
+- Samantha Hautea presented our poster, [**“Assertive driver, I can imagine that”: Interpretations of Inferences from Driving Data**](https://www.usenix.org/conference/soups2021/presentation/hautea), at SOUPS 2021. This work was coauthored with Norbert Nthala, Faye Kollig, and João Marcelo Ferraz.
 
-- Rick Wash, Norbert Nthala and I published a paper at the 2021 Symposium on Usable Privacy and Security (SOUPS) in August, titled [**"Knowledge and Capabilities that Non-Expert Users Bring to Phishing Detection"**](https://www.usenix.org/conference/soups2021/presentation/wash). 
+- Rick Wash, Norbert Nthala and I published a paper at the 2021 Symposium on Usable Privacy and Security (SOUPS) in August, titled [**Knowledge and Capabilities that Non-Expert Users Bring to Phishing Detection**](https://www.usenix.org/conference/soups2021/presentation/wash). 
 
-- Rick Wash and I published a paper titled [**"Prioritizing Security over Usability: Strategies for How People Choose Passwords"**](https://doi.org/10.1093/cybsec/tyab012) in the Journal of Cybersecurity in June 2021. 
+- Rick Wash and I published a paper titled [**Prioritizing Security over Usability: Strategies for How People Choose Passwords**](https://doi.org/10.1093/cybsec/tyab012) in the Journal of Cybersecurity in June 2021. 
 
-- My paper with Samantha Hautea and Anjali Munasinghe, [**“I Have a Narrow Thought Process: Constraints on Explanations Connecting Inferences and Self-Perceptions”**](https://bierdoctor.com/papers/inferences_SOUPS_2020_final.pdf), which is about how people interpret the inferences that Facebook and Google make about them, received the SOUPS Privacy Award at SOUPS 2020!
+- My paper with Samantha Hautea and Anjali Munasinghe, [**“I Have a Narrow Thought Process”: Constraints on Explanations Connecting Inferences and Self-Perceptions**](https://bierdoctor.com/papers/inferences_SOUPS_2020_final.pdf), which is about how people interpret the inferences that Facebook and Google make about them, received the SOUPS Privacy Award at SOUPS 2020!
 
 
 
