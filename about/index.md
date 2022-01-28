@@ -30,8 +30,8 @@ Room 436, Communication Arts and Sciences Building
 **CV:**  
 [http://emileerader.com/vita/vitaEJR.pdf](http://emileerader.com/vita/vitaEJR.pdf)
 
-**Lab:**  
-The [Behavior, Information and Technology Lab (BITLab)](https://bitlab.cas.msu.edu) at MSU. Room 249 Comm Arts.
+<!-- **Lab:**  
+The [Behavior, Information and Technology Lab (BITLab)](https://bitlab.cas.msu.edu) at MSU. Room 249 Comm Arts. -->
 
 **Office Hours:**  
 During **Fall 2021** my office hours are Mondays by appointment on Zoom, or in person at 436 Comm Arts. Use this [Calendly link](https://calendly.com/emileerader/office-hours-fall-2021) to schedule a meeting.
