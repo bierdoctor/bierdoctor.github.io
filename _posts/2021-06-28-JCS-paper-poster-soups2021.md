@@ -2,7 +2,7 @@
 layout: workshop
 type: workshop
 category: workshop
-tags: privacy
+tags: security
 title: "Prioritizing security over usability: Strategies for how people choose passwords"
 author: Wash, R. and Rader, E.
 year: 2021

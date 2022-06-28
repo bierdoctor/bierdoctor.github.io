@@ -7,7 +7,7 @@ author: "Rick Wash, Norbert Nthala and Emilee Rader"
 year: 2021
 abstract: yes
 file: "phishing-stories-SOUPS-2021.pdf"
-link: 
+link: https://www.usenix.org/conference/soups2021/presentation/wash
 conference: "Symposium on Usable Privacy and Security (SOUPS)"
 osf: "https://osf.io/82sd9/"
 ---
