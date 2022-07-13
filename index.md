@@ -14,6 +14,11 @@ I am an Associate Professor in the [Department of Media and Information](http://
 
 ### Some things I've been up to recently...
 
+- I published a paper at the 2022 Symposium on Usable Privacy and Security (SOUPS) in August, titled [**Normative and Non-Social Beliefs about Sensor Data: Implications for Collective Privacy Management**](https://www.usenix.org/conference/soups2022/presentation/rader).
+
+- Many of the results from my 2012 paper with Rick Wash, *Stories as Information Lessons About Security*, was replicated by another research group. I'm a co-author on the paper (I provided our 2012 data and analyses and helped with the writing), which also appears at SOUPS 2022: [**Replication: Stories as Informal Lessons about Security**](https://www.usenix.org/conference/soups2022/presentation/pfeffer).
+
+<!--
 - Samantha Hautea presented our poster, [**“Assertive driver, I can imagine that”: Interpretations of Inferences from Driving Data**](https://www.usenix.org/conference/soups2021/presentation/hautea), at SOUPS 2021. This work was coauthored with Norbert Nthala, Faye Kollig, and João Marcelo Ferraz.
 
 - Rick Wash, Norbert Nthala and I published a paper at the 2021 Symposium on Usable Privacy and Security (SOUPS) in August, titled [**Knowledge and Capabilities that Non-Expert Users Bring to Phishing Detection**](https://www.usenix.org/conference/soups2021/presentation/wash). 
@@ -22,10 +27,6 @@ I am an Associate Professor in the [Department of Media and Information](http://
 
 - My paper with Samantha Hautea and Anjali Munasinghe, [**“I Have a Narrow Thought Process”: Constraints on Explanations Connecting Inferences and Self-Perceptions**](https://bierdoctor.com/papers/inferences_SOUPS_2020_final.pdf), which is about how people interpret the inferences that Facebook and Google make about them, received the SOUPS Privacy Award at SOUPS 2020!
 
-
-
-
-<!--
 - I published two papers in Proceedings of the ACM on Human-Computer Interaction in May 2020: [**“It’s the Wild, Wild West: Lessons Learned From IRB Members’ Risk Perceptions Toward Digital Research Data”**](http://emileerader.com/papers/huh-yoo_rader_cscw20.pdf) with [Jina Huh-Yoo](http://jinahuhyoo.com/) at Drexel, and [**“The Role of Conversational Grounding in Supporting Symbiosis Between People and Digital Assistants”**](http://emileerader.com/papers/cho_rader_cscw20.pdf) with [Janghee Cho](https://www.colorado.edu/cmci/people/graduate-students/information-science/janghee-cho) at University of Colorado Boulder
 
 - [**Why Johnny Can’t Unsubscribe: Barriers to Stopping Unwanted Email**](http://emileerader.com/papers/unsubscribing.pdf), a paper I coauthored with Jayati Dev and Sameer Patil from Indiana University, will be published at CHI 2020.
