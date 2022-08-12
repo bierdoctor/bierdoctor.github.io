@@ -16,7 +16,7 @@ I am an Associate Professor in the [Department of Media and Information](http://
 
 - I published a paper at the 2022 Symposium on Usable Privacy and Security (SOUPS) in August, titled [**Normative and Non-Social Beliefs about Sensor Data: Implications for Collective Privacy Management**](https://www.usenix.org/conference/soups2022/presentation/rader).
 
-- Many of the results from my 2012 paper with Rick Wash, *Stories as Information Lessons About Security*, was replicated by another research group. I'm a co-author on the paper (I provided our 2012 data and analyses and helped with the writing), which also appears at SOUPS 2022: [**Replication: Stories as Informal Lessons about Security**](https://www.usenix.org/conference/soups2022/presentation/pfeffer).
+- Many of the results from my 2012 paper with Rick Wash and Brandon Brooks, *Stories as Information Lessons About Security*, were replicated by another research group. I'm a co-author on the paper -- I provided our 2012 data and analyses and helped with the writing -- which also appears at SOUPS 2022: [**Replication: Stories as Informal Lessons about Security**](https://www.usenix.org/conference/soups2022/presentation/pfeffer).
 
 <!--
 - Samantha Hautea presented our poster, [**“Assertive driver, I can imagine that”: Interpretations of Inferences from Driving Data**](https://www.usenix.org/conference/soups2021/presentation/hautea), at SOUPS 2021. This work was coauthored with Norbert Nthala, Faye Kollig, and João Marcelo Ferraz.
