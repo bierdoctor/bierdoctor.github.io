@@ -10,7 +10,7 @@ Socio-technical systems provide access to ever-increasing quantities of informat
 
 Personalization algorithms are a necessary and beneficial part of the infrastructure of a socio-technical system. But, because algorithmic curation is invisible, users do not know the extent to which their choices about what they might read or who they might communicate with in social media are constrained.  For example, effects of a feedback loop inherent in the rules that prioritize Facebook posts for display could have unintended effects on which Facebook Friends those users stay in touch with. How might properties of human communication and behavior interact with filtering algorithms to shape information access and use in increasingly connected and automated online environments?
 
-This project was supported by National Science Foundation under Grant No. [IIS-1217212](http://nsf.gov/awardsearch/showAward?AWD_ID=1217212). For more information see [https://bitlab.cas.msu.edu/curation/](https://bitlab.cas.msu.edu/curation/).
+This project was supported by National Science Foundation under Grant No. [IIS-1217212](http://nsf.gov/awardsearch/showAward?AWD_ID=1217212). 
 
 {% for post in site.posts %}
 {% if post.tags contains 'curation' %}
@@ -27,7 +27,7 @@ Everyone who installs software or apps on a computing device, uses email and soc
 
 For example, when a user clicks on a shady link in an email message, he may not immediately recognize this as a risky activity. Later on, if he learns that his account has been compromised, he may not be able to associate that feedback with the action that triggered the breach. If users can't learn from direct feedback as part of their experiences, then how do they develop the mental models they use to make security-related decisions, and how do these mental models correspond with security-related behaviors?
 
-This project was supported by National Science Foundation under Grant No. [CNS-1115926](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1115926). For more information see [https://bitlab.cas.msu.edu/securitymodels/](https://bitlab.cas.msu.edu/securitymodels/).
+This project was supported by National Science Foundation under Grant No. [CNS-1115926](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1115926). 
 
 {% for post in site.posts %}
 {% if post.tags contains 'security' %}

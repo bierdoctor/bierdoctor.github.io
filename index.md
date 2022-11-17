@@ -4,13 +4,11 @@ comments: false
 share: false
 ---
 
-
-I am a human computer interaction researcher studying how people interact with and understand computing systems that bring together people, data, and machine learning technologies. These systems are "black boxes": the people who use them can see and experience the inputs and outputs, but not the inner logic. This makes it very difficult to understand and reason about how they work, and to envision what the consequences of using them might be for individuals and society. 
-
-For example, it is hard enough for end users of computing systems to be aware of the data that is collected about them, but it's even harder to understand how that data can be used to categorize their personal characteristics or activities, to make predictions about their future behavior and interests, and to infer sensitive, private information. I’m working to discover ways to help people take back some agency over the data they provide to the apps and platforms they use, so that they will have a way to influence what these systems can do and how they affect the world. 
-
 I am an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). Some keywords to describe my research are: digital privacy, inferences, social norms, algorithms, big data, sociotechnical systems.
 
+My research focuses on human-centered aspects of data privacy. I study how people reason and make choices about data collection and inferences enabled by digital technologies, to better understand why people struggle to manage their privacy, and to discover new ways to help people gain more appropriate control over information about them.
+
+For example, it is hard enough for end users of computing systems to be aware of the data that is collected about them, but it's even harder to understand how that data can be used to categorize their personal characteristics or activities, to make predictions about their future behavior and interests, and to infer sensitive, private information. I’m working to discover ways to help people take back some agency over the data they provide to the apps and platforms they use, so that they will have a way to influence what these systems can do and how they affect the world. 
 
 ### Some things I've been up to recently...
 
