@@ -8,7 +8,8 @@
 
 {% include _open-graph.html %}
 
-{% include analytics.html %}
+<!-- commented out to remove google analytics, hopefully -->
+<!-- >{% include analytics.html %} -->
 
 {% if site.owner.google.verify %}<!-- Webmaster Tools verfication -->
 <meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
