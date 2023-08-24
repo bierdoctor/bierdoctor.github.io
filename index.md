@@ -4,7 +4,7 @@ comments: false
 share: false
 ---
 
-I am an Associate Professor in the [Department of Media and Information](http://mi.msu.edu/), of the [College of Communication Arts and Sciences](http://cas.msu.edu/) at [Michigan State University](http://msu.edu/). Some keywords to describe my research are: digital privacy, inferences, social norms, algorithms, big data, sociotechnical systems.
+I am an Associate Professor in the [Information School](https://ischool.wisc.edu) at the [University of Wisconsin-Madision](https://www.wisc.edu). Some keywords to describe my research are: digital privacy, inferences, social norms, algorithms, big data, sociotechnical systems.
 
 My research focuses on human-centered aspects of data privacy. I study how people reason and make choices about data collection and inferences enabled by digital technologies, to better understand why people struggle to manage their privacy, and to discover new ways to help people gain more appropriate control over information about them.
 
@@ -12,13 +12,16 @@ For example, it is hard enough for end users of computing systems to be aware of
 
 ### Some things I've been up to recently...
 
+- I presented my paper [**Data Privacy and Pluralistic Ignorance**](https://www.usenix.org/conference/soups2023/presentation/rader) at the 2023 Symposium on Usable Privacy and Security (SOUPS), August 7-8, 2023.
+
 - I gave a virtual talk for Australia's CSIRO on June 28, 2023 titled "An Argument for Limiting Collection of Data."
 
 - I participated in the Future of Human Centred Privacy workshop at King's College, London on June 5-7, 2023.
 
-- My paper "Data Privacy and Pluralistic Ignorance" was accepted to the 2023 Symposium on Usable Privacy and Security (SOUPS).
 
 <!--
+- My paper "Data Privacy and Pluralistic Ignorance" was accepted to the 2023 Symposium on Usable Privacy and Security (SOUPS).
+
 - I published a paper at the 2022 Symposium on Usable Privacy and Security (SOUPS) in August, titled [**Normative and Non-Social Beliefs about Sensor Data: Implications for Collective Privacy Management**](https://www.usenix.org/conference/soups2022/presentation/rader).
 
 - Many of the results from my 2012 paper with Rick Wash and Brandon Brooks, *Stories as Information Lessons About Security*, were replicated by another research group. I'm a co-author on the paper -- I provided our 2012 data and analyses and helped with the writing -- which also appears at SOUPS 2022: [**Replication: Stories as Informal Lessons about Security**](https://www.usenix.org/conference/soups2022/presentation/pfeffer).
