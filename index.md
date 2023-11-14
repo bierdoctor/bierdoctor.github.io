@@ -4,7 +4,7 @@ comments: false
 share: false
 ---
 
-I am an Associate Professor in the [Information School](https://ischool.wisc.edu), in the [School of Computer, Data and Information Sciences](https://cdis.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu/). Some keywords to describe my research are: human-centered data privacy, usable privacy and security, privacy norms, sociotechnical systems.
+I am an Associate Professor in the [Information School](https://ischool.wisc.edu), which is part of the [School of Computer, Data and Information Sciences](https://cdis.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu/). Some keywords to describe my research are: human-centered data privacy, usable privacy and security, privacy norms, sociotechnical systems.
 
 My research focuses on human-centered aspects of data privacy. I study how people reason and make choices about data collection and inferences enabled by digital technologies, to better understand why people struggle to manage their privacy, and to discover new ways to help people gain more appropriate control over information about them.
 
