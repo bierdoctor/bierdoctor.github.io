@@ -3,7 +3,7 @@ layout: workshop
 type: workshop
 category: workshop
 tags: privacy
-title: "That’s Not Me: Surprising Algorithmic Inferences"
+title: "That's Not Me: Surprising Algorithmic Inferences"
 author: Hautea, S., Munasinghe, A., and Rader, E.
 year: 2020
 workshop: "Extended Abstracts of the 2020 CHI Conference On Human Factors In Computing Systems"

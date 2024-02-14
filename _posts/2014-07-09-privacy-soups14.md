@@ -12,7 +12,7 @@ conference: Symposium on Usable Privacy and Security (SOUPS)
 month: July
 city: Menlo Park, CA
 pages: 51-67
-link: https://www.usenix.org/conference/soups2014/proceedings/presentation/rader
+link: "https://www.usenix.org/conference/soups2014/proceedings/presentation/rader"
 ---
 
 Internet companies record data about users as they surf the web,

@@ -3,7 +3,7 @@ layout: conference
 type: conference
 category: conference
 tags: curation
-title: Understanding User Beliefs About Algorithmic Curation in the Facebook News Feed
+title: "Understanding User Beliefs About Algorithmic Curation in the Facebook News Feed"
 author: Emilee Rader and Rebecca Gray
 year: 2015
 file: "filterbubble_CHI2015_final.pdf"
