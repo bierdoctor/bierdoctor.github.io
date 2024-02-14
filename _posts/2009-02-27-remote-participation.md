@@ -11,7 +11,7 @@ editor: Brian Whitworth and Aldo de Moor
 publisher: Information Science Reference
 pages: 589-604
 isbn: 978-1605662640
-link: http://www.amazon.com/Handbook-Research-Socio-Technical-Networking-2-Volumes/dp/160566264X
+link: "http://www.amazon.com/Handbook-Research-Socio-Technical-Networking-2-Volumes/dp/160566264X"
 ---
 
 Jeremy Birnholtz, Emilee Rader, Daniel B. Horn and Thomas Finholt apply the concept of "common ground" to shared display systems, reporting on academic research tele-participation in earthquake engineering and geo-technical centrifuge experiments.
