@@ -3,7 +3,7 @@ layout: journal
 type: journal
 category: journal
 tags: security
-title: "Identifying Patterns in Informal Sources of Security Information"
+title: "Identifying Patterns in Informal Sources of Security Information
 author: Emilee Rader and Rick Wash
 journal: Journal of Cybersecurity
 year: 2015
