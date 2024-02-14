@@ -12,6 +12,6 @@ month: June
 year: 2012
 isbn: 978-1118062418
 abstract: no
-link: "http://www.amazon.com/Death-Internet-Markus-Jakobsson/dp/1118062418"
+link: http://www.amazon.com/Death-Internet-Markus-Jakobsson/dp/1118062418
 pages: 140-153
 ---

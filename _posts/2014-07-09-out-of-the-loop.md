@@ -11,7 +11,7 @@ year: 2014
 city: Menlo Park, CA
 abstract: true
 file: wash_outoftheloop_SOUPS2014_final.pdf
-link: "https://www.usenix.org/conference/soups2014/proceedings/presentation/wash"
+link: https://www.usenix.org/conference/soups2014/proceedings/presentation/wash
 ---
 
 When security updates are not installed, or installed slowly, end users are at an increased risk for harm. To improve

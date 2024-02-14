@@ -3,7 +3,7 @@ layout: conference
 type: conference
 category: conference
 tags: security
-title: "Too Much Knowledge? Security Beliefs and Protective Behaviors Among United States Internet Users"
+title: Too Much Knowledge? Security Beliefs and Protective Behaviors Among United States Internet Users
 author: Rick Wash and Emilee Rader
 year: 2015
 file: "security-survey-soups-2015.pdf"
@@ -12,7 +12,7 @@ conference: "Symposium on Usable Privacy and Security (SOUPS)"
 month: July
 city: Ottawa, Canada
 link: "https://www.usenix.org/conference/soups2015/proceedings/presentation/wash"
-osf: "https://osf.io/efmgz/"
+osf: https://osf.io/efmgz/
 ---
 
 

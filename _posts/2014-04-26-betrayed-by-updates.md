@@ -10,9 +10,9 @@ abstract: yes
 file: "itunes_CHI14_fixed.pdf"
 city: Toronto, Canada
 conference: CHI 2014
-doi: "10.1145/2556288.2557275"
+doi: 10.1145/2556288.2557275
 tags: security
-acmdl: "http://dl.acm.org/citation.cfm?id=2556288.2557275"
+acmdl: http://dl.acm.org/citation.cfm?id=2556288.2557275
 ---
 
 Installing security-relevant software updates is one of the best computer protection mechanisms.  However, users do not

@@ -3,7 +3,7 @@ layout: conference
 type: conference
 category: conference
 title: "Testing the Technology: Playing Games with Video Conferencing"
-author: Archer L. Batcheller, Brian Hilligoss, Kevin Nam, Emilee Rader, Marta Rey-Babarro and Xiaomu Zhou
+author: 	Archer L. Batcheller, Brian Hilligoss, Kevin Nam, Emilee Rader, Marta Rey-Babarro and Xiaomu Zhou
 year: 2007
 file: "mafia_video_final_19jan07.pdf"
 abstract: yes
