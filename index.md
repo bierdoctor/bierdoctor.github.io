@@ -12,7 +12,7 @@ For example, it is hard enough for end users of computing systems to be aware of
 
 ### Some things I've been up to recently...
 
-- My paper [why Johnny Can't Unsubscribe: Barriers to Stopping Unwanted Email](https://dl.acm.org/doi/10.1145/3313831.3376165) was cited in a [Wirecutter article about email unsubscribe services](https://www.nytimes.com/wirecutter/reviews/best-email-unsubscribe-service/) in January 2024.
+- My paper [Why Johnny Can't Unsubscribe: Barriers to Stopping Unwanted Email](https://dl.acm.org/doi/10.1145/3313831.3376165) was cited in a [Wirecutter article about email unsubscribe services](https://www.nytimes.com/wirecutter/reviews/best-email-unsubscribe-service/) in January, 2024.
 
 - I started a new job as an Associate Professor in the Information School at UW-Madison in the Fall of 2023.
 
