@@ -2,7 +2,6 @@
 layout: workshop
 type: workshop
 category: workshop
-tags: privacy
 title: "Speculating About Multi-user Conversational Interfaces and LLMs: What If Chating Wasn’t So Lonely?"
 author: Seymour, W. and Rader, E.
 year: 2024
