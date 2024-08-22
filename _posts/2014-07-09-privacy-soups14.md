@@ -2,7 +2,6 @@
 layout: conference
 type: conference
 category: conference
-tags: privacy
 title: Awareness of Behavioral Tracking and Information Privacy Concern in Facebook and Google
 author: Emilee Rader
 year: 2014

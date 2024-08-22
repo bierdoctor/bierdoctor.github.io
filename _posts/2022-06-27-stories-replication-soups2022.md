@@ -7,7 +7,6 @@ author: "Katharina Pfeffer, Alexandra Mai, Edgar Weippl, Emilee Rader and Kathar
 year: 2022
 abstract: yes
 conference: "Symposium on Usable Privacy and Security (SOUPS)"
-tags: privacy
 file: "soups2022-pfeffer.pdf"
 link: "https://www.usenix.org/conference/soups2022/presentation/pfeffer"
 ---

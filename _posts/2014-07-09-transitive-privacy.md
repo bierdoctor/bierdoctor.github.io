@@ -2,7 +2,6 @@
 layout: workshop
 type: workshop
 category: workshop
-tags: privacy
 title: "Transitive Privacy Concern in Social Networks"
 author: Yumi Jung and Emilee Rader
 year: 2014

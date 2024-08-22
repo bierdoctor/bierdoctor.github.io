@@ -2,7 +2,6 @@
 layout: journal
 type: journal
 category: journal
-tags: privacy
 title: "It's the Wild, Wild West: Lessons Learned From IRB Members' Risk Perceptions Toward Digital Research Data"
 author: Jina Huh-Yoo and Emilee Rader
 journal: "Proc. ACM Hum.-Comput. Interact."

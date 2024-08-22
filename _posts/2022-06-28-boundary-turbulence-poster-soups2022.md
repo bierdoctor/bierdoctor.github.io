@@ -2,7 +2,6 @@
 layout: workshop
 type: workshop
 category: workshop
-tags: privacy
 title: "You have to be hyperaware: PhD students' management of boundary turbulence when posting research-related information on social media"
 author: Hautea, S. and Rader, E.
 year: 2022
