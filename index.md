@@ -14,7 +14,7 @@ For example, it is hard enough for end users of computing systems to be aware of
 
 - I am co-chair for the CHI Privacy & Security subcommittee for 2026.
 
-- I co-edited a special issue of Human Computer Interaction on [Personal Information Management (PIM)](https://www.tandfonline.com/doi/full/10.1080/07370024.2025.2482191).
+- I co-edited a special issue of Human Computer Interaction on [Personal Information Management (PIM)](https://www.tandfonline.com/doi/full/10.1080/07370024.2025.2482191), published in 2025.
 
 <!--
 - My paper [Why Johnny Can't Unsubscribe: Barriers to Stopping Unwanted Email](https://dl.acm.org/doi/10.1145/3313831.3376165) was cited in a [Wirecutter article about email unsubscribe services](https://www.nytimes.com/wirecutter/reviews/best-email-unsubscribe-service/) in January 2024.
