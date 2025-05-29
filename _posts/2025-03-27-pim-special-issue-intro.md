@@ -1,5 +1,5 @@
 ---
-layout: journal
+layout: workshop
 type: workshop
 category: workshop
 title: "The future of personal information management in the age of ubiquitous personal data"

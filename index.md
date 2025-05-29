@@ -12,6 +12,11 @@ For example, it is hard enough for end users of computing systems to be aware of
 
 ### Some things I've been up to recently...
 
+- I am co-chair for the CHI Privacy & Security subcommittee for 2026.
+
+- I co-edited a special issue of Human Computer Interaction on [Personal Information Management (PIM)](https://www.tandfonline.com/doi/full/10.1080/07370024.2025.2482191).
+
+<!--
 - My paper [Why Johnny Can't Unsubscribe: Barriers to Stopping Unwanted Email](https://dl.acm.org/doi/10.1145/3313831.3376165) was cited in a [Wirecutter article about email unsubscribe services](https://www.nytimes.com/wirecutter/reviews/best-email-unsubscribe-service/) in January 2024.
 
 - I started a new job as an Associate Professor in the Information School at UW-Madison in the Fall of 2023.
@@ -22,7 +27,6 @@ For example, it is hard enough for end users of computing systems to be aware of
 
 - I participated in the Future of Human Centred Privacy workshop at King's College, London on June 5-7, 2023.
 
-<!--
 - I published a paper at the 2022 Symposium on Usable Privacy and Security (SOUPS) in August, titled [**Normative and Non-Social Beliefs about Sensor Data: Implications for Collective Privacy Management**](https://www.usenix.org/conference/soups2022/presentation/rader).
 
 - Many of the results from my 2012 paper with Rick Wash and Brandon Brooks, *Stories as Information Lessons About Security*, were replicated by another research group. I'm a co-author on the paper -- I provided our 2012 data and analyses and helped with the writing -- which also appears at SOUPS 2022: [**Replication: Stories as Informal Lessons about Security**](https://www.usenix.org/conference/soups2022/presentation/pfeffer).
