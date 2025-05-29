@@ -19,7 +19,7 @@ share: false
 {% endif %}
 {% endfor %} 
 
-### Conference Proceedings, Workshop Papers and Posters
+### Conference Proceedings, Workshop and Invited Papers, Posters
 {% assign lastyear = 2100 %}
 {% for post in site.posts %}
 {% if post.type == 'workshop' %}
