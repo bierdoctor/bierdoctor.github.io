@@ -4,8 +4,7 @@ type: workshop
 category: workshop
 title: "The future of personal information management in the age of ubiquitous personal data"
 author: "Steve Whittaker, Emilee Rader, Ofer Bergman"
-journal: "Human Computer Interaction"
-year: 2025
+year: "Human Computer Interaction. 2025"
 pages: "1-5"
 abstract: yes
 link: "https://www.tandfonline.com/doi/full/10.1080/07370024.2025.2482191"
