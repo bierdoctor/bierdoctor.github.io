@@ -12,9 +12,11 @@ For example, it is hard enough for end users of computing systems to be aware of
 
 ### Some things I've been up to recently...
 
+- I became the Director of Undergraduate Studies for the Information School in the 2025-2026 academic year.
+
 - I was promoted to Full Professor starting in the Fall of 2025.
 
-- I am co-chair for the CHI 2026 Privacy & Security subcommittee.
+- I was co-chair for the CHI 2026 Privacy & Security subcommittee.
 
 - I co-edited a special issue of Human Computer Interaction on [Personal Information Management (PIM)](https://www.tandfonline.com/doi/full/10.1080/07370024.2025.2482191), published in 2025.
 
