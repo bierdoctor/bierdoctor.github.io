@@ -5,9 +5,7 @@ category: conference
 title: "Transformational Provocations for Usable Privacy and Security: Designing Beyond Compliance and Expert Norms"
 author: "Yuxi Wu, Alexandra To, Emilee Rader, Keith Edwards, and Sauvik Das"
 conference: Proceedings of the New Security Paradigms Workshop (NSPW 2025)
-month: August
 year: 2026
-city: Aerzen, Germany
 file: "wu_transformational_provocations_nspw_2026.pdf"
 acmdl: "https://dl.acm.org/doi/10.1145/3774761.3774765"
 doi: 10.1145/3774761.3774765
