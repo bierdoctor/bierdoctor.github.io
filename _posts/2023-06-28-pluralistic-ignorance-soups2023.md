@@ -9,6 +9,7 @@ abstract: yes
 conference: "Symposium on Usable Privacy and Security (SOUPS)"
 tags: privacy
 file: "rader_SOUPS_2023.pdf"
+osf: "https://osf.io/b7dyn"
 ---
 
 <!-- link: "https://www.usenix.org/conference/soups2022/presentation/rader" -->
