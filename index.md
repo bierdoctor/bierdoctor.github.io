@@ -12,6 +12,12 @@ For example, it is hard enough for end users of computing systems to be aware of
 
 ### Some things I've been up to recently...
 
+- I served as a mentor for the [2026 SaTC Aspiring PI Workshop](https://nsfsatcaspiringpi2026.cs.jhu.edu).
+
+- I became [Associate Dean for Faculty Affairs](https://cai.wisc.edu/2026/10/01/emilee-rader-named-associate-dean-faculty-affairs/) of the new [College of Computing and Artificial Intelligence](https://cai.wisc.edu) at the University of Wisconsin-Madison in Fall 2026.
+
+<!--
+
 - I became the Director of Undergraduate Studies for the Information School in the 2025-2026 academic year.
 
 - I was promoted to Full Professor starting in the Fall of 2025.
@@ -20,7 +26,6 @@ For example, it is hard enough for end users of computing systems to be aware of
 
 - I co-edited a special issue of Human Computer Interaction on [Personal Information Management (PIM)](https://www.tandfonline.com/doi/full/10.1080/07370024.2025.2482191), published in 2025.
 
-<!--
 - My paper [Why Johnny Can't Unsubscribe: Barriers to Stopping Unwanted Email](https://dl.acm.org/doi/10.1145/3313831.3376165) was cited in a [Wirecutter article about email unsubscribe services](https://www.nytimes.com/wirecutter/reviews/best-email-unsubscribe-service/) in January 2024.
 
 - I started a new job as an Associate Professor in the Information School at UW-Madison in the Fall of 2023.
